@@ -1,0 +1,1072 @@
+CUSTOMER,STATE,GENDER,EDUCATION,INCOME,MONTHLY_PREMIUM_AUTO,Policy Type,VEHICLE_CLASS,TOTAL_CLAIM_AMOUNT
+RB50392,Washington,NA,Master,0,"$1,000.00",Personal Auto,Four-Door Car,$2.70
+QZ44356,Arizona,F,Bachelor,0,$94.00,Personal Auto,Four-Door Car,"$1,131.46"
+AI49188,Nevada,F,Bachelor,48767,$108.00,Personal Auto,Two-Door Car,$566.47
+WW63253,California,M,Bachelor,0,$106.00,Corporate Auto,SUV,$529.88
+GA49547,Washington,M,High School or Below,36357,$68.00,Personal Auto,Four-Door Car,$17.27
+OC83172,Oregon,F,Bachelor,62902,$69.00,Personal Auto,Two-Door Car,$159.38
+XZ87318,Oregon,F,College,55350,$67.00,Corporate Auto,Four-Door Car,$321.60
+CF85061,Arizona,M,Master,0,$101.00,Corporate Auto,Four-Door Car,$363.03
+DY87989,Oregon,M,Bachelor,14072,$71.00,Corporate Auto,Four-Door Car,$511.20
+BQ94931,Oregon,F,College,28812,$93.00,Special Auto,Four-Door Car,$425.53
+SX51350,California,M,College,0,$67.00,Personal Auto,Four-Door Car,$482.40
+VQ65197,California,NA,College,0,$110.00,Personal Auto,SUV,$528.00
+DP39365,California,NA,Master,77026,$110.00,Corporate Auto,Four-Door Car,$472.03
+SJ95423,Arizona,NA,High School or Below,99845,$110.00,Corporate Auto,SUV,$528.00
+IL66569,California,NA,College,83689,$70.00,Corporate Auto,Four-Door Car,$307.14
+BW63560,Oregon,NA,Bachelor,24599,$64.00,Corporate Auto,Four-Door Car,$42.92
+FV94802,Nevada,NA,High School or Below,25049,$67.00,Personal Auto,Two-Door Car,$454.25
+OE15005,California,NA,College,28855,$101.00,Personal Auto,SUV,$647.44
+WC83389,Oregon,NA,College,51148,$72.00,Personal Auto,Four-Door Car,$308.98
+FL50705,California,NA,High School or Below,66140,$101.00,Corporate Auto,Four-Door Car,$484.80
+ZK25313,Oregon,NA,High School or Below,57749,$74.00,Personal Auto,Two-Door Car,$355.20
+QK46697,Washington,M,Bachelor,61040,$79.00,Personal Auto,Two-Door Car,$20.38
+YH23384,Arizona,NA,Bachelor,14072,$71.00,Personal Auto,Four-Door Car,$511.20
+TZ98966,Nevada,NA,Bachelor,0,$73.00,Corporate Auto,Four-Door Car,$554.38
+HM55802,California,NA,Bachelor,17870,$61.00,Corporate Auto,Four-Door Car,$439.20
+FS42516,Oregon,NA,College,97541,$72.00,Personal Auto,Four-Door Car,$389.19
+US89481,California,NA,Bachelor,0,$111.00,Personal Auto,Four-Door Car,$799.20
+HS14476,Washington,M,College,29723,$80.00,Personal Auto,Four-Door Car,$20.99
+GE62437,Arizona,NA,College,86584,$111.00,Personal Auto,Four-Door Car,$532.80
+EJ77678,Oregon,NA,Master,75690,$80.00,Personal Auto,Four-Door Car,$384.00
+SV85652,Arizona,NA,College,23158,$63.00,Personal Auto,Four-Door Car,$322.29
+UL64533,Nevada,NA,High School or Below,65999,$237.00,Corporate Auto,Luxury SUV,$615.93
+PF41800,California,NA,Bachelor,0,$65.00,Personal Auto,Four-Door Car,$308.15
+HD95276,Washington,F,College,0,$130.00,Personal Auto,SUV,$23.82
+SK67821,Oregon,NA,Bachelor,37260,$62.00,Corporate Auto,Four-Door Car,$15.44
+YV55495,Arizona,NA,High School or Below,68987,$71.00,Personal Auto,Four-Door Car,$204.48
+KY38074,California,NA,Bachelor,42305,$117.00,Personal Auto,Four-Door Car,$561.60
+DM79012,Oregon,NA,Master,65706,$91.00,Personal Auto,Four-Door Car,$436.80
+CM61827,Oregon,NA,Bachelor,0,$90.00,Personal Auto,Two-Door Car,$648.00
+WC35801,Arizona,NA,High School or Below,53243,$66.00,Personal Auto,Four-Door Car,$157.40
+QG25316,Nevada,NA,High School or Below,0,$70.00,Corporate Auto,Two-Door Car,$484.32
+MB98372,Oregon,NA,College,50071,$71.00,Corporate Auto,Two-Door Car,$18.92
+IL19217,California,NA,Bachelor,60021,$99.00,Personal Auto,Four-Door Car,$882.87
+SR38658,Arizona,NA,High School or Below,43244,$103.00,Personal Auto,Sports Car,$494.40
+YD87931,Washington,M,Doctor,46896,"$35,354.00",Personal Auto,Four-Door Car,$31.71
+HG65722,Oregon,NA,Doctor,10105,$172.00,Personal Auto,SUV,$0.52
+BU27331,Arizona,NA,Bachelor,0,$73.00,Personal Auto,Four-Door Car,$579.17
+XM45289,Oregon,NA,High School or Below,23218,$71.00,Personal Auto,Two-Door Car,$447.79
+KP34198,California,NA,Bachelor,0,$92.00,Corporate Auto,Four-Door Car,$529.62
+SH90947,Arizona,NA,High School or Below,0,$62.00,Personal Auto,Four-Door Car,$313.02
+WE95729,Oregon,NA,College,24804,$104.00,Personal Auto,SUV,$593.83
+PY51963,California,NA,Bachelor,33190,$106.00,Corporate Auto,SUV,$508.80
+RB69909,Nevada,NA,High School or Below,36014,$69.00,Special Auto,Four-Door Car,$173.96
+NW21079,Washington,F,Master,67163,$61.00,Personal Auto,Two-Door Car,$33.19
+FR46645,California,NA,Bachelor,16701,$113.00,Personal Auto,Four-Door Car,$831.63
+SY17488,Arizona,NA,College,46623,$91.00,Corporate Auto,Four-Door Car,$436.80
+AP67935,California,NA,College,64749,$64.00,Special Auto,Four-Door Car,$302.57
+FS37417,Arizona,NA,High School or Below,0,$101.00,Personal Auto,SUV,$484.80
+ML29312,Oregon,NA,High School or Below,16969,$124.00,Personal Auto,SUV,$704.77
+UB61619,Oregon,NA,Master,11621,$108.00,Personal Auto,Four-Door Car,$518.40
+CD86811,Arizona,NA,Bachelor,17622,$65.00,Personal Auto,Four-Door Car,$312.00
+RU83859,California,NA,Bachelor,11489,$105.00,Personal Auto,Two-Door Car,$504.00
+FG63582,Oregon,NA,Bachelor,0,$94.00,Personal Auto,Two-Door Car,$863.33
+NN71951,California,NA,High School or Below,66525,$100.00,Personal Auto,SUV,$104.33
+WB37082,Arizona,NA,Bachelor,0,$63.00,Personal Auto,Four-Door Car,$676.39
+SM52139,Washington,NA,College,33663,$73.00,Personal Auto,Four-Door Car,$350.40
+FL82372,Oregon,NA,College,22547,$112.00,Corporate Auto,SUV,$537.60
+DP45816,Arizona,NA,High School or Below,61486,$97.00,Personal Auto,Two-Door Car,$465.26
+GW33762,Oregon,NA,Bachelor,0,$95.00,Personal Auto,Two-Door Car,$456.00
+RZ33670,California,NA,College,29879,$102.00,Personal Auto,Four-Door Car,$500.25
+PY70169,Oregon,NA,High School or Below,93011,$113.00,Personal Auto,SUV,$281.45
+MO91628,Oregon,NA,Master,65186,$65.00,Personal Auto,Two-Door Car,$5.43
+HW87852,Oregon,NA,Master,26840,$64.00,Personal Auto,Four-Door Car,$307.20
+HB20453,Oregon,NA,Bachelor,0,$104.00,Personal Auto,Sports Car,$982.40
+BN87372,Oregon,NA,Bachelor,75644,$65.00,Personal Auto,Two-Door Car,$467.80
+YX23800,Oregon,NA,Bachelor,38984,$73.00,Personal Auto,Four-Door Car,$350.40
+DZ87709,Oregon,NA,High School or Below,71811,$71.00,Personal Auto,Four-Door Car,$29.03
+XW13033,Nevada,NA,College,20961,$67.00,Personal Auto,Four-Door Car,$321.60
+SP81997,Washington,F,Master,41275,$96.00,Personal Auto,Four-Door Car,$41.12
+OM82309,California,NA,Bachelor,61321,$186.00,Personal Auto,Luxury Car,$427.63
+ZU35962,California,NA,College,0,$77.00,Personal Auto,Two-Door Car,$25.81
+VH85817,California,NA,High School or Below,51066,$74.00,Personal Auto,Four-Door Car,$787.99
+DT85712,California,NA,Doctor,34378,$102.00,Personal Auto,SUV,$489.60
+YJ88573,Nevada,NA,Master,43072,$63.00,Personal Auto,Four-Door Car,$302.40
+SQ19467,Oregon,NA,College,25222,$90.00,Personal Auto,Four-Door Car,$475.62
+YB66933,Washington,F,Bachelor,77552,$68.00,Corporate Auto,Four-Door Car,$45.22
+ET79815,California,NA,College,23091,$96.00,Personal Auto,Four-Door Car,$460.80
+QC35222,California,NA,Bachelor,48269,$69.00,Corporate Auto,Four-Door Car,$282.15
+CJ15590,Oregon,NA,Bachelor,32720,$67.00,Personal Auto,Four-Door Car,$321.60
+OI48267,California,NA,College,20396,$76.00,Personal Auto,Four-Door Car,$364.80
+JY67916,Oregon,NA,College,21513,$119.00,Personal Auto,Two-Door Car,$679.83
+OW15518,Washington,F,College,0,$87.00,Personal Auto,Two-Door Car,$46.04
+CZ33664,Oregon,NA,Bachelor,80744,$63.00,Corporate Auto,Four-Door Car,$11.88
+WK30175,Oregon,NA,Bachelor,52822,$67.00,Corporate Auto,Two-Door Car,$350.53
+ON44465,California,NA,High School or Below,0,$77.00,Personal Auto,Four-Door Car,$863.39
+TV87155,Oregon,NA,Bachelor,69738,$74.00,Personal Auto,Four-Door Car,$492.13
+KH48895,Arizona,NA,Master,17780,$109.00,Personal Auto,SUV,$132.59
+NZ30757,California,NA,Bachelor,18107,$62.00,Personal Auto,Four-Door Car,$297.60
+RI22468,Arizona,NA,Bachelor,57740,$74.00,Personal Auto,Four-Door Car,$269.91
+FZ30935,Oregon,NA,College,32627,$76.00,Personal Auto,Two-Door Car,$380.04
+UG93476,California,NA,College,0,$107.00,Personal Auto,SUV,$513.60
+AB96670,California,NA,College,0,$70.00,Personal Auto,Four-Door Car,$425.27
+XK64261,Oregon,NA,Bachelor,65795,$62.00,Corporate Auto,Two-Door Car,$49.01
+EV68375,California,NA,College,60475,$107.00,Personal Auto,Four-Door Car,$513.60
+UN51653,California,NA,High School or Below,0,$130.00,Personal Auto,SUV,$936.00
+TO96662,Oregon,NA,Bachelor,41837,$88.00,Personal Auto,Four-Door Car,$142.06
+MR52087,California,NA,Bachelor,32303,$65.00,Personal Auto,Four-Door Car,$45.15
+DE75225,Oregon,NA,High School or Below,0,$117.00,Personal Auto,SUV,$561.60
+EP80820,California,NA,Bachelor,40531,$74.00,Personal Auto,Two-Door Car,$30.57
+GU99037,Oregon,NA,College,79898,$62.00,Corporate Auto,Four-Door Car,$271.61
+WI57118,California,NA,College,56398,$85.00,Personal Auto,Four-Door Car,$408.00
+GP39118,Washington,M,High School or Below,71600,$63.00,Personal Auto,Two-Door Car,$46.16
+MQ14219,Arizona,NA,College,27804,$109.00,Personal Auto,SUV,$784.80
+KN20603,Oregon,NA,Bachelor,45506,$66.00,Personal Auto,Four-Door Car,$316.80
+SG20925,Washington,F,Master,99428,"$6,464.00",Personal Auto,Four-Door Car,$48.05
+JI70886,California,NA,High School or Below,0,$102.00,Corporate Auto,SUV,$489.60
+VF72557,Oregon,NA,High School or Below,20993,$133.00,Personal Auto,SUV,$638.40
+OX28638,Arizona,NA,High School or Below,37839,$86.00,Personal Auto,Two-Door Car,$465.63
+SK55033,California,NA,Bachelor,92711,$62.00,Personal Auto,Two-Door Car,$368.40
+OO88645,California,NA,College,74665,$78.00,Corporate Auto,Four-Door Car,$236.90
+FM14335,Washington,F,College,61108,$89.00,Personal Auto,Four-Door Car,$49.45
+CW82151,California,NA,Bachelor,46833,$112.00,Personal Auto,Sports Car,$64.11
+DY22043,Oregon,NA,High School or Below,88768,$68.00,Personal Auto,Two-Door Car,$326.40
+SH36774,California,NA,High School or Below,28262,$192.00,Personal Auto,Luxury SUV,$921.60
+EM43724,Nevada,NA,Bachelor,33555,$63.00,Personal Auto,Four-Door Car,$101.90
+FH85960,Oregon,NA,College,42780,$113.00,Personal Auto,Four-Door Car,$542.40
+XA55993,Oregon,NA,Master,58850,$78.00,Personal Auto,Four-Door Car,$143.75
+GO36627,Arizona,NA,College,21880,$97.00,Special Auto,Four-Door Car,$424.08
+QH48047,Oregon,NA,College,25251,$66.00,Personal Auto,Four-Door Car,$316.80
+HS28694,Washington,F,High School or Below,25317,$71.00,Personal Auto,Two-Door Car,$50.42
+UH65059,Arizona,NA,High School or Below,24188,$109.00,Personal Auto,Sports Car,$523.20
+FV21968,Nevada,NA,Bachelor,41611,$74.00,Special Auto,Four-Door Car,$113.80
+QA87025,Oregon,NA,Bachelor,28406,$72.00,Personal Auto,Four-Door Car,$192.88
+TQ13499,Arizona,NA,College,69833,$118.00,Personal Auto,Four-Door Car,$828.66
+BU44523,Arizona,NA,High School or Below,0,$74.00,Corporate Auto,Four-Door Car,$532.80
+MS41162,Arizona,NA,High School or Below,0,$117.00,Personal Auto,SUV,$975.11
+PU25891,Oregon,NA,High School or Below,80536,$119.00,Special Auto,Sports Car,$53.80
+LH92841,Washington,F,Bachelor,88891,$89.00,Personal Auto,Four-Door Car,$50.53
+SX26335,Oregon,NA,College,97732,$79.00,Personal Auto,Four-Door Car,$289.91
+AZ95587,Arizona,F,Bachelor,61222,$89.00,Special Auto,Four-Door Car,$392.60
+DS81757,Oregon,M,College,0,$74.00,Personal Auto,Two-Door Car,$721.24
+OJ94107,Arizona,M,Master,50335,$140.00,Personal Auto,SUV,$456.52
+LP84436,California,F,High School or Below,0,$127.00,Personal Auto,Sports Car,"$1,088.00"
+FF22360,Washington,F,Doctor,82210,$68.00,Personal Auto,Four-Door Car,$51.96
+LM19287,Oregon,F,High School or Below,0,$96.00,Personal Auto,Four-Door Car,$460.80
+ZU18643,Nevada,M,Bachelor,64495,$92.00,Corporate Auto,Four-Door Car,$251.99
+AZ82578,California,F,College,0,$72.00,Corporate Auto,Four-Door Car,$345.60
+XC67861,Arizona,F,Bachelor,28859,$67.00,Corporate Auto,Two-Door Car,$321.60
+YC43143,Arizona,F,High School or Below,77330,$99.00,Personal Auto,Four-Door Car,$99.26
+EK59571,Oregon,M,College,0,$105.00,Corporate Auto,Four-Door Car,$504.00
+PA38372,Washington,F,High School or Below,33060,$117.00,Personal Auto,Four-Door Car,$56.73
+RO18530,Washington,M,Master,42557,$65.00,Personal Auto,Four-Door Car,$57.56
+PD27940,Arizona,M,High School or Below,26372,$126.00,Personal Auto,SUV,$604.80
+BS77946,Arizona,F,Bachelor,17514,$127.00,Personal Auto,SUV,$8.31
+YM50253,California,F,Bachelor,89270,$74.00,Personal Auto,Four-Door Car,$316.60
+NR15332,California,M,High School or Below,29757,$65.00,Personal Auto,Four-Door Car,$312.00
+RC62865,Oregon,M,College,51814,$92.00,Personal Auto,Four-Door Car,$56.30
+CC15295,Oregon,F,Bachelor,24028,$82.00,Personal Auto,Four-Door Car,$393.60
+KA61892,Arizona,M,College,28142,$105.00,Personal Auto,Sports Car,$701.71
+OS94884,Arizona,F,Bachelor,52705,$64.00,Personal Auto,Two-Door Car,$128.71
+ND87334,California,M,High School or Below,0,$63.00,Corporate Auto,Two-Door Car,$679.37
+OY51402,Washington,F,High School or Below,54040,$103.00,Personal Auto,SUV,$59.99
+YL74911,California,F,College,0,$118.00,Personal Auto,SUV,$566.40
+GK92563,Washington,F,Doctor,22492,$85.00,Personal Auto,Two-Door Car,$61.65
+HL53154,California,M,Bachelor,0,$77.00,Personal Auto,Four-Door Car,$554.40
+RI78966,Oregon,M,Master,21876,$68.00,Personal Auto,Four-Door Car,$465.41
+IC13702,California,F,Bachelor,0,$69.00,Personal Auto,Four-Door Car,$496.80
+BE10809,California,F,High School or Below,0,$61.00,Personal Auto,Four-Door Car,$292.80
+HT87217,Oregon,F,High School or Below,70699,$82.00,Personal Auto,Four-Door Car,$256.81
+TH95618,California,F,High School or Below,0,$74.00,Personal Auto,Four-Door Car,$355.20
+TS19868,California,M,College,27501,$63.00,Personal Auto,Four-Door Car,$542.32
+LP45550,Oregon,F,Doctor,15897,$101.00,Personal Auto,Four-Door Car,$303.15
+QR87004,Nevada,F,College,25141,$73.00,Personal Auto,Four-Door Car,$25.44
+OE75747,Nevada,F,College,0,$61.00,Personal Auto,Four-Door Car,$292.80
+DX91392,California,M,High School or Below,51066,$74.00,Personal Auto,Four-Door Car,$787.99
+AB72731,California,F,Bachelor,28358,$117.00,Personal Auto,Sports Car,$84.02
+GX84338,Washington,F,Doctor,62530,$95.00,Personal Auto,Four-Door Car,$61.69
+IS12901,Arizona,F,Bachelor,90972,$74.00,Personal Auto,Two-Door Car,$232.93
+BN90616,Washington,F,Bachelor,63110,$72.00,Personal Auto,Four-Door Car,$68.18
+HH90090,California,F,Bachelor,29549,$104.00,Personal Auto,Sports Car,$710.43
+IU25463,California,F,Bachelor,0,$115.00,Personal Auto,Four-Door Car,$552.00
+KC11055,Nevada,F,Bachelor,39411,$217.00,Personal Auto,Luxury Car,"$1,122.66"
+PD33979,Oregon,M,High School or Below,21709,$62.00,Personal Auto,Four-Door Car,$408.37
+NK71023,Nevada,M,Bachelor,67890,$85.00,Personal Auto,Four-Door Car,$408.00
+AB13432,California,M,Bachelor,0,$110.00,Personal Auto,SUV,$792.00
+OZ97704,California,F,High School or Below,84311,$111.00,Personal Auto,SUV,$532.80
+UF46533,California,F,College,99316,$114.00,Corporate Auto,SUV,$754.36
+XP47431,Arizona,F,Bachelor,54507,$138.00,Personal Auto,SUV,$702.99
+GK73582,California,F,Bachelor,64586,$76.00,Personal Auto,Four-Door Car,$206.84
+RV98763,Oregon,M,College,61709,$82.00,Personal Auto,Four-Door Car,$275.40
+II62831,California,M,Master,94656,$111.00,Special Auto,SUV,$459.74
+XK33449,California,F,High School or Below,0,$69.00,Special Auto,Two-Door Car,$496.80
+TR85083,California,M,Bachelor,61085,$70.00,Personal Auto,Two-Door Car,$336.00
+EO95328,Oregon,F,Bachelor,89284,$67.00,Personal Auto,Two-Door Car,$321.60
+EN21086,Arizona,F,High School or Below,0,$63.00,Personal Auto,Four-Door Car,$302.40
+YL83902,Washington,F,Bachelor,31686,$81.00,Personal Auto,Four-Door Car,$430.99
+AZ62651,Oregon,M,High School or Below,56855,$255.00,Corporate Auto,Luxury SUV,"$1,836.00"
+ZW25874,Oregon,M,Bachelor,53703,$67.00,Special Auto,Four-Door Car,$67.63
+EH41854,Washington,F,High School or Below,0,$96.00,Personal Auto,Two-Door Car,$844.48
+MW70227,California,M,College,20396,$76.00,Personal Auto,Four-Door Car,$364.80
+SL22297,California,F,Master,27679,$150.00,Personal Auto,SUV,$722.49
+RV14138,Nevada,F,Bachelor,23904,$123.00,Personal Auto,SUV,$590.40
+UO62808,Arizona,F,High School or Below,65351,$69.00,Corporate Auto,Four-Door Car,$481.03
+ZX64745,California,M,College,0,$113.00,Personal Auto,SUV,"$1,124.43"
+FL34139,California,M,High School or Below,0,$63.00,Personal Auto,Four-Door Car,$669.68
+TS11219,California,M,College,0,$116.00,Personal Auto,SUV,"$1,284.09"
+XX12304,California,F,College,64459,$72.00,Personal Auto,Four-Door Car,$240.26
+SD64087,California,M,College,32961,$190.00,Corporate Auto,SUV,$912.00
+OY38576,Oregon,F,High School or Below,71416,$116.00,Corporate Auto,SUV,$556.80
+BG76355,Washington,F,Bachelor,68964,$78.00,Personal Auto,Four-Door Car,$115.09
+IP66913,California,M,High School or Below,78108,$98.00,Personal Auto,Two-Door Car,$470.40
+LE95702,California,M,College,10621,$67.00,Special Auto,Four-Door Car,$321.60
+KX54357,Washington,M,College,84910,$95.00,Corporate Auto,Two-Door Car,$383.17
+EZ78112,California,F,High School or Below,77493,$70.00,Special Auto,Four-Door Car,$307.96
+XN16891,Arizona,M,College,81097,$74.00,Personal Auto,Four-Door Car,$355.20
+XK31350,Oregon,F,College,96610,$85.00,Corporate Auto,Four-Door Car,$520.36
+CC30924,Oregon,M,College,30110,$159.00,Corporate Auto,Sports Car,$466.44
+IT78748,Oregon,F,High School or Below,22081,$84.00,Special Auto,Two-Door Car,$451.67
+KY33386,Washington,F,High School or Below,0,$112.00,Personal Auto,Sports Car,$537.60
+CO44221,California,M,College,98473,$72.00,Personal Auto,Four-Door Car,$345.60
+LK60013,Oregon,F,Bachelor,97431,$74.00,Personal Auto,Four-Door Car,$355.20
+DE21533,California,M,Bachelor,93870,$69.00,Personal Auto,Four-Door Car,$331.20
+YS94121,Nevada,M,High School or Below,50366,$72.00,Personal Auto,Four-Door Car,$428.73
+UK68427,Washington,M,High School or Below,34498,$83.00,Personal Auto,Two-Door Car,$398.40
+TE49565,Oregon,F,College,16552,$103.00,Personal Auto,SUV,$494.40
+RA88421,Oregon,F,College,26787,$77.00,Personal Auto,Four-Door Car,$369.60
+KQ51983,Nevada,M,College,0,$74.00,Personal Auto,Two-Door Car,$831.75
+CD88896,Nevada,F,High School or Below,43860,$65.00,Corporate Auto,Four-Door Car,$156.12
+YV22553,Arizona,M,High School or Below,21474,$114.00,Corporate Auto,SUV,$373.43
+WU14435,California,M,Bachelor,18174,$66.00,Corporate Auto,Four-Door Car,$395.93
+XV84099,Arizona,F,Bachelor,0,$73.00,Corporate Auto,Four-Door Car,$350.40
+RI24911,Arizona,M,College,60920,$64.00,Personal Auto,Two-Door Car,$231.20
+KO26461,Arizona,M,High School or Below,41520,$90.00,Personal Auto,Four-Door Car,$289.90
+HI14283,Oregon,F,Bachelor,0,$152.00,Personal Auto,SUV,$729.60
+PT50227,Arizona,M,High School or Below,0,$68.00,Personal Auto,Two-Door Car,$326.40
+BH36570,California,M,Bachelor,72208,$73.00,Personal Auto,Two-Door Car,$350.40
+TX17484,California,F,Bachelor,53863,$63.00,Personal Auto,Four-Door Car,$105.77
+CT41158,Washington,M,College,66446,$136.00,Corporate Auto,SUV,$639.46
+AO87348,Washington,M,College,0,$61.00,Personal Auto,Four-Door Car,$292.80
+DE55857,Washington,F,Bachelor,64997,$63.00,Personal Auto,Four-Door Car,$383.44
+LF66923,Nevada,F,High School or Below,64460,$66.00,Corporate Auto,Two-Door Car,$316.80
+CN24514,Arizona,F,College,46618,$67.00,Personal Auto,Four-Door Car,$99.09
+UW32074,Oregon,F,College,0,$64.00,Corporate Auto,Four-Door Car,$307.20
+HP36979,California,M,College,49988,$84.00,Personal Auto,Two-Door Car,$566.94
+PP40919,California,F,College,0,$91.00,Personal Auto,Two-Door Car,$436.80
+RO73268,California,M,Bachelor,16269,$86.00,Corporate Auto,Two-Door Car,$412.80
+HO61691,Arizona,F,Bachelor,72006,$64.00,Personal Auto,Four-Door Car,$307.20
+BS13062,Arizona,F,High School or Below,0,$81.00,Personal Auto,Four-Door Car,$388.80
+FO35655,Oregon,M,Bachelor,0,$245.00,Corporate Auto,Luxury SUV,"$2,345.41"
+HR10526,California,M,Master,44320,$67.00,Personal Auto,Four-Door Car,$321.60
+IA63417,Arizona,F,High School or Below,19782,$108.00,Personal Auto,Two-Door Car,$773.47
+BH35016,Nevada,F,Bachelor,63933,$70.00,Personal Auto,Two-Door Car,$424.88
+PK52952,Arizona,M,Doctor,28224,$109.00,Personal Auto,SUV,$523.20
+OD76309,Washington,F,College,21073,$106.00,Personal Auto,SUV,$508.80
+IL28481,Oregon,M,Bachelor,63243,$77.00,Personal Auto,Four-Door Car,$364.24
+GY55092,Nevada,M,High School or Below,20993,$133.00,Personal Auto,SUV,$638.40
+UF33451,Oregon,F,Bachelor,94827,$135.00,Personal Auto,SUV,$354.73
+CF15558,California,F,Master,39161,$63.00,Personal Auto,Two-Door Car,$284.00
+JM62924,Washington,M,Bachelor,37534,$84.00,Personal Auto,Four-Door Car,$403.20
+EM66435,Oregon,F,Bachelor,80210,$65.00,Corporate Auto,Four-Door Car,$20.54
+QX45933,California,M,Bachelor,0,$62.00,Personal Auto,Four-Door Car,$385.12
+JI71369,California,F,College,30110,$64.00,Personal Auto,Four-Door Car,$140.17
+JU93290,Arizona,F,College,21708,$68.00,Personal Auto,Four-Door Car,$326.40
+GU66096,Arizona,M,High School or Below,94731,$67.00,Personal Auto,Four-Door Car,$321.60
+UC33108,California,M,Bachelor,32375,$83.00,Personal Auto,Four-Door Car,$398.40
+LW93867,Oregon,M,College,16531,$63.00,Corporate Auto,Four-Door Car,$102.88
+OU78470,Arizona,F,Master,32006,$94.00,Corporate Auto,Four-Door Car,$56.87
+XW90265,Arizona,F,Bachelor,81676,$72.00,Personal Auto,Two-Door Car,$463.16
+HS67749,California,M,College,71038,$86.00,Corporate Auto,Four-Door Car,$205.44
+VZ51506,Arizona,F,High School or Below,0,$103.00,Corporate Auto,Sports Car,$741.60
+UI64281,Nevada,F,Master,20832,$65.00,Personal Auto,Two-Door Car,$56.37
+AE98193,Washington,M,High School or Below,0,$113.00,Personal Auto,SUV,$813.60
+AZ74055,Oregon,M,High School or Below,52405,$103.00,Personal Auto,Four-Door Car,$494.40
+XS76911,Arizona,F,High School or Below,0,$133.00,Personal Auto,Sports Car,$795.86
+AY40674,Washington,F,Bachelor,26583,"$1,005.00",Personal Auto,SUV,$614.40
+NA12740,Oregon,M,Master,25486,$65.00,Special Auto,Two-Door Car,$72.44
+UA84837,Arizona,M,College,24065,$111.00,Corporate Auto,Four-Door Car,$532.80
+DJ51510,Arizona,F,High School or Below,70435,$116.00,Personal Auto,Four-Door Car,$67.88
+VM58985,California,M,College,0,$76.00,Personal Auto,Two-Door Car,$402.64
+OH60605,Oregon,F,High School or Below,39679,$92.00,Personal Auto,Two-Door Car,$641.39
+UO98052,Nevada,M,College,0,$89.00,Personal Auto,Four-Door Car,$342.48
+NC53424,California,M,Bachelor,0,$69.00,Personal Auto,Two-Door Car,$331.20
+LQ13873,Nevada,M,High School or Below,53565,$71.00,Personal Auto,Four-Door Car,$340.80
+LA97014,Washington,M,Bachelor,37574,$66.00,Personal Auto,Two-Door Car,$412.10
+NB79936,Washington,M,Bachelor,48259,$108.00,Personal Auto,Two-Door Car,$73.70
+NT89061,Arizona,F,High School or Below,78532,$78.00,Personal Auto,Four-Door Car,$374.40
+AF10970,Arizona,F,Bachelor,96163,$73.00,Corporate Auto,Four-Door Car,$350.40
+ZG48513,California,M,Bachelor,0,$72.00,Personal Auto,Four-Door Car,$345.60
+JQ59145,California,M,High School or Below,0,$114.00,Personal Auto,Sports Car,$722.02
+FE84989,Washington,M,College,72672,$63.00,Personal Auto,Four-Door Car,$259.36
+JT52858,Oregon,F,Bachelor,99002,$112.00,Personal Auto,Four-Door Car,$537.60
+MC62068,California,M,High School or Below,79494,$91.00,Personal Auto,Four-Door Car,$396.30
+EU27538,Oregon,M,Master,35704,$225.00,Personal Auto,Luxury Car,$358.28
+RH42306,Arizona,F,Bachelor,0,$71.00,Corporate Auto,Four-Door Car,$653.39
+US23612,Oregon,F,High School or Below,26049,$118.00,Personal Auto,Two-Door Car,$121.03
+WV76014,Arizona,M,Doctor,70125,$64.00,Special Auto,Four-Door Car,$92.81
+RK96223,California,M,College,52369,$110.00,Personal Auto,SUV,$528.00
+MF82000,Washington,F,Bachelor,0,$66.00,Special Auto,Four-Door Car,$159.64
+FM46980,Arizona,M,College,41770,$72.00,Personal Auto,Four-Door Car,$476.16
+SY56792,Oregon,M,High School or Below,0,$101.00,Corporate Auto,Four-Door Car,$727.20
+RF61565,California,M,College,31911,$67.00,Personal Auto,Four-Door Car,$321.60
+IM94808,Nevada,M,Bachelor,70051,$68.00,Corporate Auto,Four-Door Car,$42.08
+VI14730,Oregon,M,High School or Below,19683,$117.00,Personal Auto,Sports Car,$561.60
+YR34119,Washington,F,College,30916,$112.00,Personal Auto,SUV,$200.12
+RR77985,Oregon,F,Bachelor,0,$80.00,Personal Auto,Four-Door Car,$676.94
+QD28391,Washington,M,College,84302,$62.00,Personal Auto,Four-Door Car,$76.61
+WV17090,California,M,Bachelor,0,$116.00,Corporate Auto,SUV,$830.62
+TM23514,Oregon,M,College,60145,$132.00,Personal Auto,SUV,$580.47
+MQ68407,Oregon,F,Bachelor,63774,$111.00,Personal Auto,Four-Door Car,$60.04
+GJ59592,California,F,Bachelor,25134,$67.00,Corporate Auto,Four-Door Car,$321.60
+FY56083,Oregon,M,Bachelor,37057,$61.00,Personal Auto,Four-Door Car,$47.53
+UA94723,Oregon,F,High School or Below,58577,$110.00,Personal Auto,SUV,$303.87
+FW91032,California,M,High School or Below,85857,$73.00,Corporate Auto,Four-Door Car,$100.62
+DE34457,Oregon,F,Doctor,70602,$116.00,Personal Auto,SUV,$481.34
+HD32044,Oregon,F,Master,33816,$106.00,Corporate Auto,Four-Door Car,$508.80
+HH30454,Oregon,M,Bachelor,0,$153.00,Personal Auto,SUV,"$1,101.60"
+AH84063,Oregon,F,College,89642,$121.00,Corporate Auto,SUV,$86.32
+QA17596,California,F,Bachelor,60068,$98.00,Personal Auto,Two-Door Car,$470.40
+XI41052,California,F,Bachelor,50044,$139.00,Personal Auto,SUV,$667.20
+DI30528,California,F,Master,36650,$69.00,Personal Auto,Four-Door Car,$56.60
+SC66359,Arizona,F,College,50653,$110.00,Corporate Auto,SUV,$262.87
+EN61670,Arizona,F,Doctor,68931,$66.00,Personal Auto,Four-Door Car,$309.58
+DQ10761,Oregon,M,Bachelor,0,$73.00,Corporate Auto,Four-Door Car,$350.40
+BQ51587,California,F,College,0,$73.00,Personal Auto,Four-Door Car,$365.36
+JE21522,California,M,Bachelor,39266,$80.00,Personal Auto,Four-Door Car,$384.00
+WS47147,California,M,College,0,$102.00,Personal Auto,SUV,$489.60
+ZA64638,Nevada,F,High School or Below,0,$98.00,Personal Auto,Four-Door Car,$705.60
+EW38459,Nevada,F,Bachelor,40864,$65.00,Corporate Auto,Four-Door Car,$9.52
+QW87316,Oregon,F,College,39035,$68.00,Personal Auto,Four-Door Car,$244.56
+IC43478,California,M,Bachelor,34923,$98.00,Personal Auto,Two-Door Car,$639.11
+TE34064,California,M,High School or Below,0,$63.00,Personal Auto,Four-Door Car,$453.60
+WU60905,California,F,High School or Below,0,$111.00,Corporate Auto,SUV,$532.80
+YM18992,California,F,College,24506,$71.00,Personal Auto,Two-Door Car,$511.20
+PD55753,Oregon,M,High School or Below,0,$82.00,Personal Auto,Four-Door Car,$554.52
+KU56006,Arizona,F,College,52220,$70.00,Personal Auto,Four-Door Car,$336.00
+MJ69973,Arizona,M,High School or Below,0,$74.00,Personal Auto,Two-Door Car,$402.45
+TW43626,California,M,College,53554,$67.00,Personal Auto,Four-Door Car,$327.02
+XX84133,California,M,Bachelor,34476,$67.00,Corporate Auto,Four-Door Car,$5.40
+ZW84453,Arizona,F,Bachelor,0,$70.00,Personal Auto,Four-Door Car,$131.40
+HO29524,California,M,College,68205,$76.00,Personal Auto,Two-Door Car,$99.38
+VE89726,California,F,High School or Below,0,$119.00,Personal Auto,SUV,$856.80
+GE87503,California,M,High School or Below,53690,$154.00,Personal Auto,SUV,$739.20
+PX90263,Oregon,M,High School or Below,0,$72.00,Personal Auto,Four-Door Car,$518.40
+NI17718,California,F,High School or Below,0,$61.00,Personal Auto,Four-Door Car,$292.80
+FY32213,California,F,High School or Below,74454,$71.00,Personal Auto,Four-Door Car,$340.80
+RZ13254,Nevada,F,Bachelor,0,$73.00,Personal Auto,Four-Door Car,$350.40
+GN45013,Oregon,M,High School or Below,29664,$71.00,Personal Auto,Four-Door Car,$340.80
+NM39588,Washington,F,Doctor,72450,$66.00,Corporate Auto,Four-Door Car,$84.22
+KU84464,Nevada,F,Bachelor,47272,$79.00,Personal Auto,Four-Door Car,$64.55
+YH43527,Oregon,F,College,21585,$92.00,Corporate Auto,Four-Door Car,$441.60
+RO30676,California,F,College,23827,$106.00,Personal Auto,Four-Door Car,$37.91
+QL59704,Arizona,F,College,69906,$74.00,Corporate Auto,Four-Door Car,$202.86
+QH19450,California,F,High School or Below,0,$72.00,Corporate Auto,Four-Door Car,$345.60
+SA54664,Washington,M,Master,73196,$66.00,Personal Auto,Four-Door Car,$85.81
+CI38330,Washington,M,Bachelor,72217,"$6,464.00",Personal Auto,Four-Door Car,$91.15
+WB38524,California,M,High School or Below,46131,$74.00,Personal Auto,Two-Door Car,$355.20
+CE56187,Oregon,F,Master,54514,$109.00,Personal Auto,SUV,$286.23
+JL19416,California,F,High School or Below,0,$161.00,Personal Auto,SUV,"$1,159.20"
+JZ61422,Nevada,F,College,96668,$66.00,Personal Auto,Four-Door Car,$316.80
+LA13377,California,M,Doctor,78879,$69.00,Personal Auto,Four-Door Car,$466.57
+NC99948,Nevada,M,College,0,$69.00,Personal Auto,Four-Door Car,$331.20
+QD34785,Arizona,F,Bachelor,0,$76.00,Personal Auto,Four-Door Car,$364.80
+RO26085,California,F,Bachelor,0,$112.00,Personal Auto,Sports Car,"$1,252.41"
+ES57969,Oregon,M,Bachelor,29735,$69.00,Personal Auto,Four-Door Car,$331.20
+JK55587,California,M,High School or Below,23082,$65.00,Special Auto,Four-Door Car,$312.00
+RN97635,Arizona,M,Bachelor,53984,$80.00,Corporate Auto,Four-Door Car,$421.48
+BI76326,California,F,College,52135,$156.00,Personal Auto,SUV,$430.51
+JA34909,California,F,College,17576,$71.00,Corporate Auto,Four-Door Car,$398.50
+OJ90342,Oregon,F,Bachelor,29486,$62.00,Personal Auto,Four-Door Car,$7.65
+CM88932,Oregon,F,Master,58557,$88.00,Corporate Auto,Four-Door Car,$55.51
+JJ97525,California,M,Bachelor,25632,$63.00,Personal Auto,Two-Door Car,$351.27
+XV21647,California,F,High School or Below,0,$112.00,Personal Auto,Sports Car,$806.40
+MC83487,Arizona,M,Bachelor,18768,$68.00,Corporate Auto,Four-Door Car,$647.45
+BL90769,California,F,Bachelor,33190,$106.00,Personal Auto,SUV,$508.80
+CR57148,Oregon,F,Master,47945,$74.00,Personal Auto,Two-Door Car,$128.44
+CP85232,Arizona,M,College,58778,$126.00,Special Auto,SUV,$302.03
+YL74732,California,F,High School or Below,15192,$100.00,Personal Auto,SUV,$480.00
+FG16766,California,F,Bachelor,51859,$171.00,Personal Auto,SUV,"$1,003.16"
+NV55438,Nevada,F,High School or Below,23422,$72.00,Personal Auto,Two-Door Car,$518.40
+RM10880,California,F,College,21604,$79.00,Corporate Auto,Four-Door Car,$379.20
+GL56175,Arizona,M,College,79298,$90.00,Personal Auto,Four-Door Car,$244.36
+UK52289,Arizona,F,Bachelor,76731,$64.00,Special Auto,Four-Door Car,$201.46
+OT85112,Washington,M,College,38460,$88.00,Personal Auto,Four-Door Car,$91.55
+BC62782,Arizona,F,College,48534,$115.00,Personal Auto,SUV,$552.00
+TI19722,Washington,M,Doctor,30817,$88.00,Corporate Auto,Four-Door Car,$91.83
+JP30654,Oregon,F,College,48412,$104.00,Personal Auto,SUV,$707.43
+UM45563,Washington,M,Bachelor,68798,$114.00,Personal Auto,SUV,$92.92
+EN60878,Oregon,M,Bachelor,23712,$85.00,Personal Auto,Four-Door Car,$376.13
+JF36291,California,M,College,28142,$105.00,Personal Auto,Sports Car,$701.71
+BK59444,California,F,Master,72196,$68.00,Personal Auto,Four-Door Car,$152.18
+MK70700,California,M,Master,68197,$69.00,Personal Auto,Four-Door Car,$176.82
+IW71076,California,M,Bachelor,75248,$63.00,Corporate Auto,Four-Door Car,$104.45
+AP98768,California,F,College,0,$98.00,Personal Auto,Four-Door Car,$941.72
+OM24164,Nevada,M,Bachelor,0,$65.00,Personal Auto,Two-Door Car,$468.00
+HR85211,Washington,F,Master,89879,$63.00,Personal Auto,Two-Door Car,$94.03
+VC87846,Oregon,M,High School or Below,46998,$96.00,Corporate Auto,Four-Door Car,$460.80
+ZM92052,Oregon,M,Bachelor,57099,$67.00,Personal Auto,Two-Door Car,$67.86
+ON73702,Arizona,F,Bachelor,33897,$114.00,Corporate Auto,SUV,$539.84
+QQ90441,Nevada,F,High School or Below,59207,$116.00,Personal Auto,Four-Door Car,$556.80
+HU35721,Oregon,M,High School or Below,40171,$73.00,Personal Auto,Four-Door Car,$350.40
+YP47665,Washington,M,Doctor,80192,$67.00,Personal Auto,Four-Door Car,$95.19
+FU99476,Washington,M,High School or Below,74422,$85.00,Personal Auto,Four-Door Car,$95.34
+AG85615,Oregon,M,College,0,$87.00,Special Auto,Four-Door Car,$626.40
+OY74069,Arizona,F,College,0,$67.00,Personal Auto,Four-Door Car,$321.60
+DJ91267,Nevada,F,Bachelor,34226,$244.00,Personal Auto,Luxury SUV,$494.40
+KB72438,California,F,High School or Below,65989,$123.00,Personal Auto,SUV,$115.55
+TR67616,Oregon,M,High School or Below,30686,$61.00,Corporate Auto,Four-Door Car,$19.94
+GF65731,California,F,Master,0,$113.00,Personal Auto,Sports Car,$799.93
+HB67642,Arizona,F,High School or Below,20090,$109.00,Personal Auto,Sports Car,$523.20
+DP84567,California,M,High School or Below,0,$183.00,Personal Auto,Luxury SUV,$878.40
+VV77534,Oregon,M,College,77094,$176.00,Personal Auto,SUV,$444.47
+GL67540,California,F,College,97413,$73.00,Personal Auto,Four-Door Car,$268.82
+SV50502,Oregon,F,Master,79189,$69.00,Corporate Auto,Four-Door Car,$331.20
+UK59698,California,F,High School or Below,0,$62.00,Personal Auto,Two-Door Car,$297.60
+OA57352,Arizona,F,College,18577,$86.00,Personal Auto,Four-Door Car,$412.80
+ZF84449,Oregon,F,College,0,$112.00,Special Auto,Sports Car,$806.40
+AX86150,Washington,M,High School or Below,62777,$67.00,Personal Auto,Two-Door Car,$101.29
+HG39060,Oregon,M,Bachelor,0,$74.00,Corporate Auto,Four-Door Car,$532.80
+EM29359,Nevada,M,College,17483,$183.00,Personal Auto,Luxury Car,"$1,317.60"
+SF57173,Oregon,M,Master,84394,$114.00,Personal Auto,SUV,$691.41
+OT47603,Oregon,M,College,0,$127.00,Personal Auto,Sports Car,$804.81
+SW31412,Oregon,F,College,41440,$62.00,Personal Auto,Four-Door Car,$297.60
+JS36322,Arizona,M,High School or Below,0,$136.00,Personal Auto,Sports Car,"$1,090.86"
+RE81445,Oregon,F,College,98132,$71.00,Personal Auto,Two-Door Car,$50.59
+RM24280,Oregon,F,High School or Below,0,$112.00,Personal Auto,Four-Door Car,$537.60
+LC25393,California,M,Bachelor,88220,$230.00,Personal Auto,Luxury Car,$151.53
+UX38930,Arizona,F,Master,58327,$129.00,Personal Auto,SUV,$347.08
+HD95496,Oregon,M,Master,25950,$66.00,Personal Auto,Two-Door Car,$271.70
+RX24650,Oregon,M,High School or Below,20993,$133.00,Corporate Auto,SUV,$638.40
+DW19309,Oregon,M,High School or Below,65726,$177.00,Corporate Auto,SUV,$849.60
+MT41386,Washington,M,Bachelor,84768,$72.00,Personal Auto,Two-Door Car,$110.48
+WZ40465,Washington,F,Bachelor,36234,$63.00,Personal Auto,Four-Door Car,$113.53
+DB42794,California,M,College,58842,$110.00,Personal Auto,Four-Door Car,$528.00
+JB50798,Oregon,F,Master,25629,$124.00,Corporate Auto,Sports Car,$595.20
+IP69763,Washington,F,College,77311,$181.00,Personal Auto,SUV,$113.61
+TE35785,California,M,Doctor,0,$196.00,Personal Auto,Luxury SUV,"$1,337.06"
+HX74855,Washington,M,High School or Below,95697,$61.00,Personal Auto,Two-Door Car,$114.27
+QN65180,Oregon,F,Bachelor,22254,$79.00,Personal Auto,Four-Door Car,$125.19
+GE47180,Nevada,M,High School or Below,65974,$113.00,Personal Auto,Sports Car,$235.22
+VQ38776,Oregon,F,College,0,$76.00,Personal Auto,Four-Door Car,$395.34
+BH86846,Washington,M,High School or Below,92079,$65.00,Corporate Auto,Four-Door Car,$114.80
+IN17648,Nevada,M,High School or Below,0,$74.00,Personal Auto,Two-Door Car,$772.80
+DF95759,Oregon,M,College,0,$132.00,Personal Auto,SUV,$633.60
+QG45324,Oregon,F,High School or Below,0,$73.00,Personal Auto,Four-Door Car,$350.40
+MN61620,Arizona,F,College,67752,$131.00,Personal Auto,Sports Car,$168.52
+YH86390,California,F,Bachelor,25398,$64.00,Corporate Auto,Four-Door Car,$307.20
+FY13480,California,M,High School or Below,0,$88.00,Personal Auto,Four-Door Car,$633.60
+YH61661,California,M,High School or Below,33321,$105.00,Special Auto,SUV,$504.00
+NL93182,Nevada,M,Bachelor,0,$78.00,Corporate Auto,Four-Door Car,$845.65
+LN31673,Washington,NA,College,38923,$99.00,Personal Auto,Four-Door Car,$115.73
+WE68644,Oregon,F,Bachelor,20325,$100.00,Personal Auto,Sports Car,$668.29
+EZ30498,Oregon,M,Bachelor,13129,$117.00,Personal Auto,SUV,$700.90
+QY74517,Oregon,F,High School or Below,0,$73.00,Personal Auto,Four-Door Car,$525.60
+NM88660,Nevada,M,Master,49080,$91.00,Corporate Auto,Four-Door Car,$25.30
+MZ82036,Nevada,M,College,42536,$63.00,Personal Auto,Four-Door Car,$375.33
+ID20929,Oregon,M,Bachelor,29926,$74.00,Corporate Auto,Four-Door Car,$418.23
+EY50028,Nevada,M,Doctor,0,$86.00,Corporate Auto,Two-Door Car,$398.24
+TT82373,California,F,Bachelor,21450,$138.00,Personal Auto,Sports Car,$938.51
+OH64088,California,M,High School or Below,33345,$65.00,Corporate Auto,Four-Door Car,$338.62
+SK97780,California,F,Bachelor,15752,$90.00,Corporate Auto,Two-Door Car,$339.34
+IO33050,Oregon,F,High School or Below,40169,$65.00,Personal Auto,Four-Door Car,$302.82
+XA55917,California,F,College,26049,$113.00,Personal Auto,SUV,$619.17
+JK32620,Nevada,M,College,0,$68.00,Personal Auto,Four-Door Car,$326.40
+RQ19236,Arizona,M,Doctor,55411,$100.00,Personal Auto,Sports Car,$259.56
+QC47433,Oregon,M,College,12459,$70.00,Personal Auto,Four-Door Car,$336.00
+RA93608,Oregon,M,Bachelor,64620,$76.00,Personal Auto,Two-Door Car,$364.80
+XH97711,California,M,Bachelor,83140,$61.00,Corporate Auto,Four-Door Car,$179.16
+AU96286,Oregon,F,Bachelor,0,$92.00,Corporate Auto,Four-Door Car,$662.40
+KC17170,Arizona,F,Bachelor,54422,$68.00,Corporate Auto,Four-Door Car,$75.50
+ZN47335,California,M,College,68309,$131.00,Corporate Auto,SUV,$306.98
+EI46264,California,M,High School or Below,56621,$65.00,Personal Auto,Four-Door Car,$84.03
+EK87864,Arizona,F,College,38977,$70.00,Special Auto,Four-Door Car,$139.49
+GV45403,Arizona,M,Bachelor,0,$111.00,Corporate Auto,Two-Door Car,$607.45
+QK31192,Arizona,M,High School or Below,0,$114.00,Corporate Auto,Two-Door Car,$631.12
+LU89008,Arizona,F,College,0,$83.00,Personal Auto,Four-Door Car,$628.02
+NS10490,Oregon,F,Bachelor,83235,$70.00,Personal Auto,Two-Door Car,$336.00
+KL98495,Nevada,M,College,0,$74.00,Personal Auto,Two-Door Car,$426.66
+IU96845,Arizona,M,College,32390,$80.00,Personal Auto,Four-Door Car,$91.42
+QL93655,Oregon,F,High School or Below,66538,$95.00,Personal Auto,Two-Door Car,$317.84
+PF40592,Washington,F,College,23285,$65.00,Personal Auto,Two-Door Car,$118.45
+LZ34046,Oregon,M,Bachelor,76358,$66.00,Personal Auto,Four-Door Car,$86.46
+JC80093,Washington,M,Master,21104,$66.00,Personal Auto,Four-Door Car,$118.45
+YE88490,Arizona,F,College,55350,$67.00,Personal Auto,Four-Door Car,$321.60
+YC80498,California,F,College,12964,$65.00,Personal Auto,Two-Door Car,$362.77
+AI85843,Arizona,F,Master,33288,$86.00,Personal Auto,Four-Door Car,$221.86
+XD66024,Arizona,F,College,0,$84.00,Personal Auto,Four-Door Car,$980.17
+FY51713,Arizona,F,Bachelor,56168,$88.00,Personal Auto,Four-Door Car,$614.68
+PH26378,California,M,College,0,$92.00,Personal Auto,Four-Door Car,$662.40
+WQ18638,Oregon,M,High School or Below,23105,$69.00,Personal Auto,Two-Door Car,$331.20
+KY14688,Oregon,F,Master,36218,$68.00,Personal Auto,Four-Door Car,$145.25
+TC97762,California,F,High School or Below,52275,$62.00,Corporate Auto,Four-Door Car,$374.24
+QC87108,Oregon,F,College,49665,$74.00,Personal Auto,Four-Door Car,$355.20
+CX12134,Nevada,M,High School or Below,32471,$110.00,Personal Auto,Two-Door Car,$528.00
+SM73248,Arizona,M,High School or Below,0,$86.00,Corporate Auto,Two-Door Car,$619.20
+CK19789,California,F,Master,62773,$73.00,Personal Auto,Four-Door Car,$80.67
+UV12583,California,F,College,76694,$117.00,Personal Auto,SUV,$561.60
+JC11405,Oregon,M,High School or Below,55687,$276.00,Personal Auto,Luxury SUV,"$1,324.80"
+KA89683,Arizona,F,High School or Below,0,$70.00,Personal Auto,Four-Door Car,$504.00
+BG85305,Nevada,M,Doctor,36633,$96.00,Personal Auto,Four-Door Car,$460.80
+UQ87917,Oregon,M,High School or Below,77060,$106.00,Personal Auto,SUV,$468.57
+XN11823,Nevada,F,Bachelor,92600,$94.00,Corporate Auto,Two-Door Car,$842.44
+OS46571,California,M,High School or Below,0,$66.00,Personal Auto,Four-Door Car,$475.20
+PX17116,Nevada,M,College,0,$111.00,Corporate Auto,SUV,"$1,171.93"
+RP19541,Arizona,M,College,64801,$64.00,Personal Auto,Four-Door Car,$268.47
+ZR25747,Oregon,F,College,45257,$103.00,Corporate Auto,Two-Door Car,$494.40
+NQ86532,California,M,High School or Below,26854,$66.00,Personal Auto,Four-Door Car,$475.20
+JY27336,Oregon,F,College,85840,$102.00,Corporate Auto,SUV,$138.72
+PB54378,Oregon,F,Doctor,26463,$72.00,Corporate Auto,Four-Door Car,$345.60
+SV38190,Nevada,F,Bachelor,30689,$81.00,Personal Auto,Four-Door Car,$467.25
+CV24005,Oregon,M,High School or Below,29590,$66.00,Corporate Auto,Two-Door Car,$467.50
+EX28656,Oregon,F,College,25965,$253.00,Personal Auto,Luxury SUV,"$1,214.40"
+CF57022,Oregon,M,Bachelor,17269,$139.00,Personal Auto,SUV,$667.20
+GM16780,Oregon,M,College,90330,$137.00,Corporate Auto,Sports Car,$192.09
+BX94438,California,F,High School or Below,0,$113.00,Corporate Auto,SUV,$619.97
+RM41745,California,F,High School or Below,0,$110.00,Personal Auto,Four-Door Car,"$1,002.78"
+XR70252,California,F,High School or Below,0,$67.00,Personal Auto,Two-Door Car,$321.60
+YH92099,Arizona,F,Bachelor,18558,$80.00,Special Auto,Four-Door Car,$384.00
+SG81493,Arizona,M,Bachelor,46384,$113.00,Corporate Auto,Four-Door Car,$251.77
+ZX23819,Oregon,F,High School or Below,0,$72.00,Personal Auto,Two-Door Car,$866.21
+FJ54907,Oregon,F,College,42303,$180.00,Personal Auto,Luxury SUV,"$1,210.92"
+CU26127,California,F,Bachelor,71731,$130.00,Corporate Auto,SUV,$599.65
+YH60476,Oregon,M,High School or Below,51066,$74.00,Corporate Auto,Four-Door Car,$787.99
+ZZ97035,California,M,College,0,$203.00,Corporate Auto,Luxury Car,"$2,027.72"
+GE82737,Nevada,F,Bachelor,0,$86.00,Personal Auto,Four-Door Car,$619.20
+KY21873,Arizona,M,College,0,$69.00,Personal Auto,Two-Door Car,$72.85
+UA51318,Arizona,F,High School or Below,26173,$68.00,Corporate Auto,Four-Door Car,$449.82
+BV55014,Oregon,M,Bachelor,24445,$63.00,Personal Auto,Two-Door Car,$302.40
+HX21307,Oregon,M,College,72302,$66.00,Personal Auto,Two-Door Car,$316.80
+LQ68252,Oregon,M,High School or Below,27208,$102.00,Personal Auto,SUV,$489.60
+CR92802,California,F,Master,36650,$69.00,Special Auto,Four-Door Car,$56.60
+SL35268,Arizona,M,College,30855,$68.00,Corporate Auto,Four-Door Car,$259.06
+RD62882,Arizona,F,Bachelor,0,$95.00,Personal Auto,Two-Door Car,$456.00
+JS42382,Oregon,M,Master,99960,$76.00,Corporate Auto,Four-Door Car,$364.80
+BT30554,Arizona,F,Bachelor,0,$98.00,Personal Auto,Four-Door Car,$470.40
+VP57424,Nevada,F,Bachelor,55873,$88.00,Personal Auto,Four-Door Car,$299.36
+VU19243,Arizona,F,High School or Below,18052,$111.00,Personal Auto,Four-Door Car,$699.17
+TA82973,Oregon,F,High School or Below,28937,$104.00,Personal Auto,SUV,$117.96
+GK71720,Oregon,F,High School or Below,0,$86.00,Personal Auto,Four-Door Car,$545.24
+OQ61223,California,M,College,0,$73.00,Personal Auto,Two-Door Car,$350.40
+LL62746,Oregon,M,Doctor,12829,$118.00,Personal Auto,SUV,$328.23
+JQ56711,Oregon,F,Master,92163,$73.00,Personal Auto,Two-Door Car,$66.57
+AW77988,Oregon,M,High School or Below,17588,$192.00,Personal Auto,Luxury Car,"$1,382.40"
+QP84605,Washington,F,Bachelor,41546,$111.00,Corporate Auto,Four-Door Car,$121.31
+MY97912,Arizona,M,College,0,$127.00,Personal Auto,SUV,$609.60
+IB87349,California,M,High School or Below,70340,$113.00,Special Auto,Four-Door Car,$542.40
+AW73065,Oregon,F,High School or Below,0,$74.00,Personal Auto,Four-Door Car,$532.80
+BW80872,Washington,M,High School or Below,34549,$111.00,Personal Auto,Four-Door Car,$125.93
+PX70175,Arizona,M,College,93459,$99.00,Personal Auto,Four-Door Car,$655.41
+KF75098,Arizona,M,Bachelor,86148,$65.00,Personal Auto,Four-Door Car,$312.00
+IS50283,California,F,Bachelor,27048,$72.00,Corporate Auto,Four-Door Car,$345.60
+MY64920,Oregon,F,College,73259,$115.00,Personal Auto,SUV,$673.34
+KN34250,Oregon,F,College,35482,$129.00,Corporate Auto,SUV,$619.20
+GN46207,Oregon,F,Master,29462,$107.00,Personal Auto,SUV,$513.60
+KL57176,Oregon,F,College,67801,$115.00,Personal Auto,SUV,$23.81
+MN94234,California,M,High School or Below,0,$94.00,Personal Auto,Two-Door Car,$451.20
+JY90595,Arizona,M,High School or Below,16042,$73.00,Personal Auto,Two-Door Car,$350.40
+HK26543,California,M,High School or Below,28056,$64.00,Personal Auto,Four-Door Car,$307.20
+PN86062,California,M,High School or Below,16495,$85.00,Corporate Auto,Four-Door Car,$408.00
+VW27730,California,F,Master,41163,$108.00,Corporate Auto,SUV,$231.92
+SH55671,Arizona,F,College,0,$161.00,Personal Auto,Sports Car,$772.80
+MO56878,California,M,Bachelor,33799,$109.00,Corporate Auto,SUV,$664.98
+VO38365,Washington,F,College,90125,$110.00,Corporate Auto,SUV,$128.65
+SV35618,Oregon,F,Bachelor,87747,$147.00,Personal Auto,SUV,$46.49
+RX12347,Nevada,M,College,35695,$90.00,Personal Auto,Four-Door Car,$432.00
+FR55658,California,M,Master,90985,$87.00,Personal Auto,Four-Door Car,$78.09
+XS12556,California,F,College,0,$101.00,Corporate Auto,Sports Car,$564.47
+ZU73588,California,M,College,66839,$154.00,Personal Auto,Sports Car,$739.20
+WT43034,California,F,High School or Below,0,$165.00,Personal Auto,SUV,$792.00
+VM13430,Oregon,F,Bachelor,79090,$107.00,Corporate Auto,SUV,$289.04
+TC78849,Oregon,M,Bachelor,24825,$64.00,Personal Auto,Two-Door Car,$155.94
+VC34764,California,M,College,26806,$63.00,Personal Auto,Four-Door Car,$302.40
+WO90953,Oregon,F,College,56835,$67.00,Personal Auto,Two-Door Car,$326.55
+IU47468,Oregon,F,Bachelor,0,$88.00,Special Auto,Two-Door Car,$653.66
+KO46064,California,M,Bachelor,46135,$69.00,Personal Auto,Four-Door Car,$103.94
+RB34917,Arizona,F,Bachelor,0,$73.00,Personal Auto,Four-Door Car,$809.53
+BI38192,Oregon,F,High School or Below,22862,$67.00,Personal Auto,Two-Door Car,$321.60
+PU18983,Oregon,F,High School or Below,21450,$110.00,Personal Auto,Sports Car,$528.00
+SW79912,Oregon,M,Bachelor,95854,$65.00,Personal Auto,Two-Door Car,$312.00
+ES39217,Oregon,F,Bachelor,44897,$99.00,Personal Auto,Four-Door Car,$580.73
+KP72427,Washington,M,High School or Below,64455,$108.00,Personal Auto,SUV,$133.74
+UA19178,Oregon,F,Master,53265,$62.00,Personal Auto,Four-Door Car,$238.01
+PR53785,Arizona,F,High School or Below,0,$198.00,Personal Auto,Luxury Car,"$1,577.67"
+XF57481,Washington,M,Master,50450,$90.00,Personal Auto,Two-Door Car,$135.89
+CN90378,California,F,High School or Below,54780,$88.00,Personal Auto,Four-Door Car,$135.26
+KI56154,Nevada,M,High School or Below,0,$119.00,Personal Auto,Sports Car,$571.20
+UI55951,California,M,Bachelor,67798,$69.00,Personal Auto,Four-Door Car,$331.20
+FF28650,Oregon,M,Bachelor,21442,$118.00,Personal Auto,SUV,$566.40
+FS55302,California,M,Bachelor,27615,$62.00,Personal Auto,Four-Door Car,$297.60
+TN79487,California,M,Bachelor,17622,$65.00,Personal Auto,Four-Door Car,$312.00
+HG32616,Nevada,M,High School or Below,50200,$135.00,Personal Auto,Sports Car,$637.06
+UK41984,Arizona,F,Doctor,0,$112.00,Personal Auto,SUV,$537.60
+LZ52266,California,F,High School or Below,0,$96.00,Personal Auto,Four-Door Car,$460.80
+PM27367,California,F,Master,73570,$70.00,Special Auto,Two-Door Car,$75.94
+ZK21724,Oregon,F,High School or Below,0,$111.00,Personal Auto,SUV,$799.20
+BH35482,Washington,M,Doctor,70412,$61.00,Corporate Auto,Two-Door Car,$136.29
+QE22757,Nevada,M,Doctor,36631,$62.00,Personal Auto,Four-Door Car,$67.53
+ON77649,Oregon,F,College,35895,$73.00,Personal Auto,Four-Door Car,$312.92
+RN82884,Arizona,F,College,40864,$109.00,Personal Auto,SUV,$166.94
+CQ75652,Oregon,M,College,0,$118.00,Personal Auto,Four-Door Car,$566.40
+FF58467,Arizona,F,Master,93018,$63.00,Personal Auto,Four-Door Car,$135.38
+BS83666,Oregon,M,Bachelor,70014,$62.00,Corporate Auto,Four-Door Car,$17.74
+WO29605,Oregon,F,College,48875,$61.00,Personal Auto,Two-Door Car,$1.84
+TL77607,California,M,Bachelor,67969,$74.00,Personal Auto,Four-Door Car,$197.78
+EZ50606,Oregon,F,High School or Below,0,$108.00,Corporate Auto,SUV,$612.10
+OS39723,Oregon,F,Doctor,68665,$69.00,Personal Auto,Two-Door Car,$331.20
+FN69743,California,M,College,26802,$66.00,Corporate Auto,Two-Door Car,$316.80
+XW96958,Nevada,M,High School or Below,0,$110.00,Corporate Auto,Four-Door Car,"$1,193.04"
+TU92578,California,M,College,45345,$125.00,Personal Auto,SUV,$600.00
+TL43709,Washington,M,Bachelor,89689,$74.00,Personal Auto,Four-Door Car,$136.83
+YE68736,California,F,Bachelor,32051,$193.00,Personal Auto,SUV,$926.40
+OB96537,Oregon,M,Master,81139,$74.00,Special Auto,Four-Door Car,$392.64
+EU68825,Oregon,F,Master,63834,$100.00,Personal Auto,Sports Car,$215.23
+CC31456,Arizona,M,Bachelor,37548,$81.00,Special Auto,Four-Door Car,$160.60
+DJ77787,Arizona,F,High School or Below,0,$69.00,Personal Auto,Four-Door Car,$371.80
+LN26837,California,M,High School or Below,72421,$65.00,Personal Auto,Four-Door Car,$312.00
+YI92916,Nevada,M,Master,83102,$116.00,Corporate Auto,Four-Door Car,$443.67
+NW54906,Oregon,M,College,28432,$118.00,Personal Auto,SUV,$612.30
+ME77513,Nevada,F,Master,83707,$108.00,Corporate Auto,Four-Door Car,$290.39
+UK76891,California,F,College,63259,$65.00,Corporate Auto,Four-Door Car,$316.80
+SI26888,Nevada,F,High School or Below,0,$67.00,Personal Auto,Four-Door Car,$405.53
+YD74948,Oregon,F,College,63860,$62.00,Personal Auto,Four-Door Car,$208.60
+HB64268,Washington,M,Bachelor,43836,$73.00,Personal Auto,Four-Door Car,$138.13
+BW52697,California,F,College,86132,$68.00,Personal Auto,Two-Door Car,$301.44
+NL41409,Oregon,F,Bachelor,28519,$66.00,Personal Auto,Two-Door Car,$456.47
+OD69005,Arizona,F,High School or Below,39102,$88.00,Personal Auto,Four-Door Car,$152.34
+ZZ91716,California,F,Bachelor,0,$89.00,Personal Auto,Four-Door Car,$491.76
+UK70255,California,F,College,97298,$128.00,Personal Auto,Sports Car,$48.52
+QT25383,Nevada,M,High School or Below,41986,$84.00,Personal Auto,Two-Door Car,$430.38
+AW18068,Arizona,M,High School or Below,0,$88.00,Personal Auto,Two-Door Car,$633.60
+NS45347,Oregon,F,College,17291,$73.00,Personal Auto,Four-Door Car,$350.40
+FV19421,California,M,Bachelor,0,$74.00,Personal Auto,Four-Door Car,$246.49
+XW89091,California,M,College,37256,$62.00,Personal Auto,Four-Door Car,$128.97
+YC11951,Oregon,M,High School or Below,96306,$95.00,Corporate Auto,Four-Door Car,$185.36
+UY18770,California,F,Bachelor,14290,$271.00,Personal Auto,Luxury SUV,"$1,300.80"
+RA49085,California,F,College,37038,$71.00,Corporate Auto,Four-Door Car,$9.07
+BG84194,Oregon,M,College,90760,$103.00,Special Auto,SUV,$133.48
+PT64580,Washington,M,Master,77048,$103.00,Personal Auto,SUV,$141.20
+MR67738,Oregon,F,High School or Below,54480,$67.00,Personal Auto,Four-Door Car,$321.60
+DM95829,California,M,College,16244,$68.00,Personal Auto,Two-Door Car,$623.22
+DB75522,California,F,College,22436,$89.00,Special Auto,Four-Door Car,$427.20
+LM34525,Washington,F,College,71592,$72.00,Personal Auto,Four-Door Car,$141.73
+WW30771,Arizona,M,Master,28728,$67.00,Personal Auto,Four-Door Car,$321.60
+QP65569,Arizona,M,High School or Below,57449,$103.00,Personal Auto,Four-Door Car,$494.40
+TN50051,California,F,Doctor,83318,$73.00,Personal Auto,Two-Door Car,$211.34
+UO86707,Washington,M,Bachelor,75217,$61.00,Personal Auto,Four-Door Car,$147.08
+JA41698,Nevada,M,Bachelor,0,$102.00,Corporate Auto,SUV,$862.76
+NX18774,Oregon,M,Bachelor,55308,$107.00,Corporate Auto,SUV,$513.60
+DA69469,Oregon,F,College,36068,$97.00,Personal Auto,Two-Door Car,$113.37
+CN23147,Oregon,M,Bachelor,48804,$112.00,Corporate Auto,Four-Door Car,$537.60
+RA68844,Oregon,M,College,0,$131.00,Personal Auto,SUV,$943.20
+GH42026,Oregon,M,Bachelor,55790,$111.00,Personal Auto,SUV,$117.67
+BD16530,Arizona,F,Bachelor,70258,$69.00,Personal Auto,Four-Door Car,$225.15
+JH91579,Oregon,F,Bachelor,0,$95.00,Personal Auto,Two-Door Car,$456.00
+WK23685,Oregon,F,Bachelor,47274,$83.00,Corporate Auto,Four-Door Car,$182.43
+GR62267,Washington,F,College,44705,$71.00,Personal Auto,Two-Door Car,$148.17
+PI78084,Arizona,M,High School or Below,0,$73.00,Personal Auto,Two-Door Car,$525.60
+GF97874,Washington,F,Master,70446,$65.00,Personal Auto,Four-Door Car,$155.57
+ZH19885,Washington,F,High School or Below,43860,$65.00,Personal Auto,Four-Door Car,$156.12
+UK25655,Oregon,F,Bachelor,64348,$86.00,Personal Auto,Two-Door Car,$212.39
+QR45101,Oregon,M,Bachelor,0,$62.00,Corporate Auto,Two-Door Car,$297.60
+EL93539,California,M,Master,88997,$72.00,Special Auto,Four-Door Car,$174.04
+EE99484,Washington,F,High School or Below,43860,$65.00,Corporate Auto,Four-Door Car,$156.12
+DP46882,California,F,High School or Below,10312,$78.00,Corporate Auto,Four-Door Car,$486.28
+WP41146,California,F,High School or Below,0,$72.00,Personal Auto,Four-Door Car,$345.60
+TK60799,Arizona,F,High School or Below,96263,$103.00,Personal Auto,SUV,$1.92
+DN29808,California,F,College,28919,$72.00,Corporate Auto,Four-Door Car,$518.40
+SS59521,Oregon,F,College,0,$68.00,Personal Auto,Two-Door Car,$326.40
+NG66579,Oregon,M,Bachelor,41869,$64.00,Personal Auto,Two-Door Car,$262.12
+TC14209,Arizona,F,High School or Below,0,$128.00,Personal Auto,SUV,$921.60
+ED50963,California,F,High School or Below,32808,$68.00,Personal Auto,Four-Door Car,$541.70
+GP40701,California,F,Bachelor,79780,$68.00,Personal Auto,Four-Door Car,$326.40
+CP98451,Oregon,F,College,91025,$112.00,Personal Auto,SUV,$327.68
+NX52648,California,F,High School or Below,33043,$95.00,Personal Auto,Two-Door Car,$456.00
+ZC32510,Arizona,M,High School or Below,69442,$118.00,Personal Auto,Four-Door Car,"$1,265.57"
+NG27780,Oregon,M,College,0,$70.00,Corporate Auto,Four-Door Car,$63.04
+HN95240,Arizona,F,College,0,$70.00,Corporate Auto,Four-Door Car,$336.00
+EB59129,Oregon,F,Bachelor,47234,$65.00,Personal Auto,Four-Door Car,$15.63
+RA70851,Oregon,M,High School or Below,86863,$92.00,Personal Auto,Four-Door Car,$441.60
+PM19162,Oregon,M,Bachelor,25805,$66.00,Personal Auto,Four-Door Car,$375.87
+MS59005,Nevada,M,Bachelor,43676,$76.00,Personal Auto,Four-Door Car,$364.80
+SU71163,Arizona,M,College,59855,$74.00,Personal Auto,Two-Door Car,$355.20
+BD35676,Arizona,M,Master,35296,$126.00,Personal Auto,SUV,$452.62
+NI44621,Oregon,F,Master,36576,$125.00,Personal Auto,SUV,$113.45
+EW33419,California,F,High School or Below,28513,$100.00,Corporate Auto,SUV,$480.00
+HX44948,Oregon,M,Bachelor,85448,$72.00,Special Auto,Four-Door Car,$16.03
+DL36983,Oregon,F,High School or Below,23791,$110.00,Personal Auto,Two-Door Car,$615.27
+XR87264,California,F,Bachelor,20597,$112.00,Personal Auto,Four-Door Car,$615.26
+NN99001,Arizona,F,College,56940,$87.00,Personal Auto,Four-Door Car,$512.66
+XV95530,Oregon,M,Bachelor,93210,$71.00,Personal Auto,Two-Door Car,$74.52
+OL97871,Oregon,F,Bachelor,48992,$94.00,Personal Auto,Four-Door Car,$426.07
+HQ23708,Arizona,F,Master,53736,$71.00,Personal Auto,Two-Door Car,$169.29
+WR63188,Arizona,M,College,25378,$66.00,Personal Auto,Four-Door Car,$419.46
+NG82219,Oregon,F,Bachelor,76731,$64.00,Personal Auto,Four-Door Car,$201.46
+KU29408,Washington,M,Master,37722,$116.00,Corporate Auto,Sports Car,$158.08
+RE46783,California,F,Bachelor,69379,$103.00,Personal Auto,Two-Door Car,$494.40
+RU94434,Oregon,M,High School or Below,57449,$103.00,Personal Auto,Four-Door Car,$494.40
+GI82355,Arizona,M,Bachelor,0,$68.00,Corporate Auto,Four-Door Car,$326.40
+VO26340,Nevada,M,College,0,$93.00,Personal Auto,Two-Door Car,$669.60
+NV61299,Arizona,F,Bachelor,33806,$89.00,Corporate Auto,Four-Door Car,$395.73
+DX31066,Washington,F,College,94041,$66.00,Personal Auto,Four-Door Car,$159.76
+CY50337,Oregon,F,College,74965,$90.00,Personal Auto,Four-Door Car,$58.56
+TJ20375,Arizona,F,High School or Below,34095,$63.00,Personal Auto,Two-Door Car,$302.40
+EP72155,California,F,College,0,$66.00,Personal Auto,Four-Door Car,$316.80
+JJ76159,California,M,College,96045,$61.00,Corporate Auto,Four-Door Car,$8.58
+BG15419,Nevada,F,Bachelor,86355,$118.00,Personal Auto,Sports Car,$285.42
+AO74776,California,F,High School or Below,27824,$118.00,Personal Auto,SUV,$566.40
+HQ82233,California,M,High School or Below,42995,$101.00,Personal Auto,SUV,$410.51
+OL72737,Oregon,F,High School or Below,21235,$79.00,Personal Auto,Two-Door Car,$244.23
+ZQ59828,California,M,High School or Below,74585,$106.00,Personal Auto,SUV,$218.60
+NZ15548,Oregon,M,Bachelor,41833,$103.00,Personal Auto,Four-Door Car,$643.83
+XK61304,California,F,College,23908,$70.00,Personal Auto,Four-Door Car,$336.00
+EJ44139,Oregon,M,Bachelor,0,$65.00,Personal Auto,Two-Door Car,$312.00
+CM94425,Arizona,M,Bachelor,61953,$113.00,Personal Auto,SUV,$497.05
+OV54878,California,M,Bachelor,0,$142.00,Corporate Auto,SUV,"$1,022.40"
+JF57282,Nevada,M,Bachelor,0,$137.00,Personal Auto,SUV,$657.60
+MY37953,Arizona,F,Bachelor,73760,$107.00,Personal Auto,Sports Car,$230.25
+XP64922,Oregon,F,College,23333,$74.00,Corporate Auto,Four-Door Car,$5.62
+WL65572,California,M,College,0,$61.00,Personal Auto,Four-Door Car,$292.80
+LN50325,Arizona,F,High School or Below,20440,$128.00,Corporate Auto,Sports Car,$614.40
+HJ15383,Washington,M,Master,27658,$68.00,Personal Auto,Four-Door Car,$160.08
+KH59823,California,M,College,50943,$139.00,Special Auto,SUV,$667.20
+YM79169,California,M,Bachelor,19003,$71.00,Personal Auto,Two-Door Car,$34.65
+DR38127,California,M,College,46703,$108.00,Personal Auto,Four-Door Car,$678.10
+PU42145,California,M,Bachelor,14072,$71.00,Personal Auto,Four-Door Car,$511.20
+KM33477,Oregon,M,College,21733,$73.00,Corporate Auto,Four-Door Car,$525.60
+RI53167,Arizona,M,Bachelor,20811,$61.00,Personal Auto,Four-Door Car,$292.80
+OF77789,Arizona,F,High School or Below,11904,$61.00,Personal Auto,Two-Door Car,$292.80
+YB33445,Oregon,F,College,43490,$114.00,Corporate Auto,SUV,$174.59
+BA17836,California,M,High School or Below,57340,$67.00,Corporate Auto,Four-Door Car,$159.39
+JS43228,California,M,College,49088,$97.00,Corporate Auto,Four-Door Car,$698.40
+BB11622,Nevada,M,Master,47761,$131.00,Personal Auto,SUV,$232.71
+HQ70429,Washington,F,College,0,$65.00,Personal Auto,Two-Door Car,$163.05
+WK88044,Arizona,M,Bachelor,61281,$110.00,Personal Auto,SUV,$79.87
+LA80525,Nevada,M,Bachelor,0,$82.00,Corporate Auto,Two-Door Car,$393.60
+EH16250,Arizona,M,Bachelor,25290,$66.00,Personal Auto,Four-Door Car,$382.09
+PU41872,Arizona,F,High School or Below,24239,$88.00,Personal Auto,Four-Door Car,$48.35
+HB85743,California,M,Bachelor,82664,$114.00,Personal Auto,SUV,$133.43
+MM71959,Arizona,M,Bachelor,83210,$110.00,Personal Auto,Sports Car,$528.00
+MB83663,Oregon,F,Bachelor,38736,$81.00,Personal Auto,Two-Door Car,$561.41
+KR43119,California,M,College,0,$66.00,Personal Auto,Four-Door Car,$316.80
+KH24214,Oregon,M,College,55437,$64.00,Personal Auto,Four-Door Car,$445.29
+AC40767,Washington,M,Bachelor,68041,"$6,464.00",Personal Auto,Two-Door Car,$165.57
+HP55391,Oregon,M,Master,0,$71.00,Corporate Auto,Four-Door Car,$408.00
+EG62398,California,F,High School or Below,29066,$100.00,Personal Auto,SUV,$844.23
+VS19949,Nevada,M,Bachelor,54337,$72.00,Personal Auto,Four-Door Car,$345.60
+AM92343,Oregon,F,High School or Below,67616,$96.00,Personal Auto,Four-Door Car,$340.31
+GI68556,California,F,Bachelor,41082,$63.00,Personal Auto,Two-Door Car,$106.65
+JT11876,Washington,F,High School or Below,0,"$10,202.00",Personal Auto,Four-Door Car,$626.12
+XR64251,Nevada,F,Master,36650,$69.00,Personal Auto,Four-Door Car,$56.60
+MK34957,Oregon,F,College,50631,$112.00,Special Auto,SUV,$784.66
+GP18756,California,M,College,19592,$92.00,Personal Auto,Four-Door Car,$441.60
+AP23850,Washington,F,High School or Below,0,$114.00,Personal Auto,Two-Door Car,$547.20
+KQ65521,Arizona,F,College,55761,$115.00,Personal Auto,Sports Car,$86.28
+EJ19449,California,F,College,17576,$71.00,Special Auto,Four-Door Car,$398.50
+QB70027,California,F,Bachelor,41449,$89.00,Personal Auto,Four-Door Car,$63.52
+QW47320,California,F,Bachelor,14290,$271.00,Personal Auto,Luxury SUV,"$1,300.80"
+KH64733,Nevada,F,College,62007,$73.00,Personal Auto,Four-Door Car,$120.02
+ON59472,Arizona,M,High School or Below,21921,$206.00,Corporate Auto,Luxury SUV,"$1,254.14"
+HP94242,Arizona,F,Bachelor,42621,$66.00,Personal Auto,Four-Door Car,$316.80
+RV15398,Oregon,M,College,0,$87.00,Personal Auto,Four-Door Car,$417.60
+EA25683,Washington,M,High School or Below,63786,$196.00,Corporate Auto,Luxury SUV,$798.00
+PW73754,California,F,High School or Below,0,$104.00,Personal Auto,Sports Car,$82.04
+MC71942,California,F,High School or Below,82877,$99.00,Personal Auto,Two-Door Car,$22.82
+OX72195,Arizona,M,College,0,$63.00,Corporate Auto,Two-Door Car,$302.40
+YQ99152,Nevada,M,High School or Below,10475,$88.00,Personal Auto,Two-Door Car,$422.40
+KI19439,Oregon,F,High School or Below,21952,$66.00,Personal Auto,Four-Door Car,$316.80
+PM76175,Oregon,F,Bachelor,49721,$132.00,Corporate Auto,Sports Car,$639.97
+US45383,California,M,College,88340,$102.00,Personal Auto,Two-Door Car,$489.60
+GT38956,California,F,College,0,$65.00,Personal Auto,Four-Door Car,$312.00
+SN41301,Oregon,M,Bachelor,0,$65.00,Corporate Auto,Four-Door Car,$468.00
+BE62503,Washington,F,College,24589,$82.00,Personal Auto,Two-Door Car,$511.50
+PA16884,California,F,Bachelor,69379,$103.00,Personal Auto,Two-Door Car,$494.40
+NC58480,Nevada,F,Bachelor,73769,$61.00,Personal Auto,Four-Door Car,$239.54
+NS39326,California,F,College,66670,$114.00,Personal Auto,SUV,$518.18
+PN18507,Arizona,M,Bachelor,88854,$118.00,Personal Auto,Two-Door Car,$715.25
+EK91340,Oregon,M,Bachelor,31266,$193.00,Corporate Auto,Luxury Car,$926.40
+JY16280,California,F,High School or Below,43860,$65.00,Personal Auto,Four-Door Car,$156.12
+ZW71731,California,M,Bachelor,89284,$133.00,Corporate Auto,SUV,$402.07
+ZC24631,Oregon,M,College,67267,$89.00,Corporate Auto,Four-Door Car,$94.81
+YR34689,California,F,High School or Below,79270,$95.00,Personal Auto,Four-Door Car,$456.00
+RT65829,Oregon,M,Bachelor,36692,$109.00,Personal Auto,Four-Door Car,$523.20
+BZ12077,Oregon,F,High School or Below,0,$119.00,Personal Auto,SUV,$571.20
+WM65373,California,F,College,0,$107.00,Corporate Auto,SUV,$513.60
+NH35059,Nevada,M,College,0,$105.00,Corporate Auto,Four-Door Car,$504.00
+QD38160,Oregon,M,College,0,$135.00,Personal Auto,SUV,$972.00
+BM15160,California,F,High School or Below,44624,$71.00,Special Auto,Four-Door Car,$73.88
+VY79030,Arizona,F,College,0,$71.00,Corporate Auto,Four-Door Car,$340.80
+EV19512,Nevada,F,Master,19614,$85.00,Personal Auto,Two-Door Car,$574.02
+TE13577,Oregon,F,College,0,$64.00,Personal Auto,Four-Door Car,$632.72
+WY97929,Arizona,M,College,83846,$74.00,Special Auto,Four-Door Car,$355.20
+YG20683,Washington,M,College,51159,$72.00,Personal Auto,Four-Door Car,$4.24
+FK75497,California,M,College,83772,$62.00,Personal Auto,Two-Door Car,$42.25
+NE60110,Arizona,M,College,66839,$154.00,Personal Auto,Sports Car,$739.20
+TN36521,Arizona,F,College,88440,$70.00,Personal Auto,Two-Door Car,$27.15
+HG33568,Arizona,F,Master,25666,$63.00,Personal Auto,Four-Door Car,$270.00
+TW17878,Oregon,F,High School or Below,52926,$61.00,Personal Auto,Four-Door Car,$292.80
+ZO83562,Nevada,F,Bachelor,0,$67.00,Personal Auto,Four-Door Car,$494.95
+CH97539,Washington,F,Bachelor,40001,$70.00,Personal Auto,Four-Door Car,$142.57
+CV29889,California,M,College,0,$70.00,Personal Auto,Four-Door Car,$425.27
+MO33320,Oregon,M,College,18024,$65.00,Personal Auto,Two-Door Car,$312.00
+QZ81258,Oregon,F,College,0,$68.00,Personal Auto,Four-Door Car,$326.40
+NY56352,Oregon,F,Bachelor,23220,$74.00,Personal Auto,Four-Door Car,$251.33
+EA27048,California,F,High School or Below,64125,$108.00,Personal Auto,SUV,$369.82
+UT38865,Oregon,F,College,58042,$62.00,Corporate Auto,Four-Door Car,$161.42
+QC89139,Oregon,F,High School or Below,90034,$112.00,Corporate Auto,SUV,$537.60
+LA14484,Nevada,M,High School or Below,27972,$61.00,Special Auto,Four-Door Car,$292.80
+HN57556,California,F,High School or Below,0,$65.00,Personal Auto,Four-Door Car,$312.00
+CV31235,Arizona,M,Bachelor,50989,$80.00,Corporate Auto,Four-Door Car,$256.00
+WR45726,Arizona,F,Bachelor,11885,$101.00,Special Auto,Four-Door Car,$484.80
+LB25094,California,F,Bachelor,89451,$63.00,Special Auto,Four-Door Car,$61.77
+KW56110,Oregon,M,Bachelor,0,$182.00,Personal Auto,Luxury Car,"$1,310.40"
+XO36233,Washington,M,Bachelor,78904,$109.00,Personal Auto,SUV,$250.00
+ZX86243,Arizona,M,Doctor,70247,$83.00,Personal Auto,Four-Door Car,$141.80
+DW29763,Arizona,M,High School or Below,32653,$67.00,Personal Auto,Two-Door Car,$321.60
+CT83377,Washington,M,High School or Below,93595,$97.00,Special Auto,Four-Door Car,$49.80
+OQ90898,California,M,Master,90279,$115.00,Personal Auto,SUV,$372.18
+GO77248,Oregon,F,College,0,$72.00,Personal Auto,Four-Door Car,$542.14
+QW33258,California,M,Bachelor,53310,$189.00,Personal Auto,Luxury Car,"$1,360.80"
+OU79745,California,M,College,0,$105.00,Personal Auto,Four-Door Car,$504.00
+VZ79886,Oregon,F,Bachelor,22234,$160.00,Personal Auto,SUV,$768.00
+FI92440,Washington,F,High School or Below,91375,$99.00,Personal Auto,Two-Door Car,$72.63
+YG85980,Nevada,F,High School or Below,22250,$86.00,Personal Auto,Two-Door Car,$720.60
+QM74621,Oregon,M,Bachelor,0,$80.00,Personal Auto,Four-Door Car,$576.00
+EI71732,Oregon,F,Doctor,0,$84.00,Personal Auto,Four-Door Car,$481.03
+VN79010,California,F,High School or Below,51179,$71.00,Corporate Auto,Four-Door Car,$466.18
+FI61723,California,M,Bachelor,38667,$72.00,Personal Auto,Four-Door Car,$159.27
+OH55411,California,F,Master,79487,$114.00,Corporate Auto,SUV,$547.20
+TF10720,Nevada,F,Doctor,67763,$107.00,Personal Auto,Four-Door Car,$41.28
+NW30838,Nevada,M,High School or Below,0,$62.00,Corporate Auto,Four-Door Car,$503.81
+CB58476,Oregon,F,College,0,$71.00,Corporate Auto,Four-Door Car,$859.60
+WI69346,California,F,Master,71943,$112.00,Corporate Auto,SUV,$305.65
+FS76657,Oregon,F,College,53526,$68.00,Personal Auto,Four-Door Car,$278.90
+YX89016,Oregon,M,College,35005,$295.00,Personal Auto,Luxury Car,"$1,416.00"
+PK28821,California,M,College,24721,$67.00,Personal Auto,Four-Door Car,$139.96
+MB51200,Washington,M,College,0,$102.00,Personal Auto,Four-Door Car,$734.40
+XG44587,Arizona,M,Master,88997,$72.00,Personal Auto,Four-Door Car,$174.04
+FG91922,Arizona,M,Master,48587,$111.00,Personal Auto,SUV,$532.80
+OM99303,Arizona,F,High School or Below,76310,$67.00,Personal Auto,Two-Door Car,$321.60
+RV67546,California,M,Bachelor,73205,$92.00,Personal Auto,Four-Door Car,$37.30
+UJ79253,Oregon,F,College,51056,$78.00,Personal Auto,Four-Door Car,$95.82
+PN98247,California,M,College,58414,$210.00,Personal Auto,Luxury SUV,"$1,008.00"
+IB67546,California,F,Bachelor,23940,$107.00,Personal Auto,SUV,$513.60
+OE19087,California,F,High School or Below,0,$62.00,Personal Auto,Four-Door Car,$446.40
+CM95716,California,M,Bachelor,44216,$71.00,Personal Auto,Four-Door Car,$72.21
+MW62634,California,M,High School or Below,27972,$61.00,Corporate Auto,Four-Door Car,$292.80
+QW67581,Arizona,F,High School or Below,0,$69.00,Personal Auto,Four-Door Car,$331.20
+SN16059,California,F,Master,29305,$66.00,Personal Auto,Four-Door Car,$475.20
+OE51254,California,F,College,53882,$69.00,Personal Auto,Four-Door Car,$331.20
+RM42344,Oregon,M,College,91757,$69.00,Personal Auto,Four-Door Car,$331.20
+GB35238,California,F,Bachelor,33906,$64.00,Personal Auto,Two-Door Car,$401.59
+ML82674,Oregon,M,Bachelor,68158,$139.00,Personal Auto,SUV,$253.18
+EI85244,California,M,College,0,$134.00,Personal Auto,SUV,$643.20
+DE28132,Oregon,M,College,42165,$123.00,Corporate Auto,SUV,$799.67
+TV25678,Washington,M,College,0,$101.00,Personal Auto,SUV,$727.20
+TY26512,California,M,Doctor,30817,$88.00,Personal Auto,Four-Door Car,$91.83
+OB69153,California,M,Bachelor,68074,$65.00,Personal Auto,Four-Door Car,$27.99
+QZ77637,Washington,F,College,84978,"$35,353.00",Corporate Auto,Four-Door Car,$166.77
+XN41715,California,F,Master,71135,$92.00,Personal Auto,Four-Door Car,$270.56
+QR15857,California,F,College,0,$61.00,Personal Auto,Two-Door Car,$292.80
+FL69363,Oregon,M,Master,37722,$116.00,Personal Auto,Sports Car,$158.08
+IS30295,Arizona,F,Bachelor,0,$139.00,Personal Auto,SUV,$667.20
+WA25797,Washington,M,High School or Below,95697,$107.00,Personal Auto,Sports Car,$178.01
+NL59519,California,F,College,64642,$96.00,Personal Auto,Four-Door Car,$404.27
+ZU93025,Oregon,F,College,50071,$71.00,Personal Auto,Two-Door Car,$18.92
+DK94262,Oregon,M,High School or Below,46754,$106.00,Personal Auto,SUV,$513.82
+UQ30615,California,M,College,64801,$64.00,Corporate Auto,Four-Door Car,$268.47
+OR40060,Arizona,M,Bachelor,70410,$83.00,Personal Auto,Four-Door Car,$131.83
+DK32872,Nevada,F,High School or Below,66957,$131.00,Personal Auto,SUV,$628.80
+FA46418,Nevada,F,High School or Below,24213,$78.00,Personal Auto,Four-Door Car,$374.40
+ER19995,Washington,F,College,99790,"$6,464.00",Personal Auto,Four-Door Car,$178.99
+KI75855,Oregon,M,Master,79751,$63.00,Personal Auto,Two-Door Car,$392.24
+ND41876,Arizona,M,High School or Below,86122,$182.00,Personal Auto,Luxury SUV,$873.60
+PN21042,Arizona,M,Bachelor,82297,$116.00,Personal Auto,Sports Car,$0.38
+GJ43254,Washington,M,College,89057,$98.00,Corporate Auto,Two-Door Car,$187.36
+AL46984,California,M,High School or Below,43259,$73.00,Personal Auto,Four-Door Car,$350.40
+JP58047,Oregon,M,College,0,$79.00,Personal Auto,Four-Door Car,$379.20
+ZE85014,California,M,College,25064,$62.00,Personal Auto,Four-Door Car,$297.60
+KU88219,Arizona,M,Master,25816,$119.00,Personal Auto,Sports Car,$571.20
+UU98729,California,M,Bachelor,0,$73.00,Personal Auto,Four-Door Car,$350.85
+WS82822,Oregon,F,College,41662,$69.00,Corporate Auto,Four-Door Car,$217.97
+YB49933,Arizona,M,Bachelor,96170,$92.00,Personal Auto,Four-Door Car,$441.60
+XC16387,Arizona,F,High School or Below,46072,$64.00,Personal Auto,Four-Door Car,$25.93
+XJ96748,Arizona,F,High School or Below,37931,$99.00,Personal Auto,Four-Door Car,$475.20
+TM98684,Oregon,M,High School or Below,35127,$62.00,Personal Auto,Four-Door Car,$297.60
+AY18433,Washington,F,High School or Below,45473,$76.00,Special Auto,Two-Door Car,$188.94
+DM74502,Nevada,F,College,93087,$131.00,Corporate Auto,Sports Car,$628.80
+FT56968,Arizona,M,High School or Below,22398,$67.00,Personal Auto,Four-Door Car,$321.60
+OX36896,California,M,High School or Below,92983,$87.00,Corporate Auto,Four-Door Car,$153.21
+BZ65376,Arizona,M,Bachelor,27689,$239.00,Personal Auto,Luxury SUV,"$2,893.24"
+LN34660,California,F,College,69654,$118.00,Corporate Auto,SUV,$629.53
+JC29295,California,F,Bachelor,80744,$111.00,Personal Auto,SUV,$361.28
+KJ87930,California,F,Bachelor,0,$112.00,Corporate Auto,SUV,"$1,185.99"
+XT36360,Arizona,F,High School or Below,0,$64.00,Personal Auto,Four-Door Car,$460.80
+IX35050,Arizona,M,Bachelor,76358,$66.00,Special Auto,Four-Door Car,$86.46
+UN97379,Oregon,M,Bachelor,18608,$71.00,Corporate Auto,Four-Door Car,$340.80
+MR57294,California,M,High School or Below,73168,$70.00,Personal Auto,Four-Door Car,$425.80
+UG79499,Washington,M,Bachelor,70930,$99.00,Personal Auto,Four-Door Car,$190.43
+UA50747,Washington,F,High School or Below,62262,$72.00,Corporate Auto,Four-Door Car,$193.51
+GL20444,Nevada,F,Master,91474,$113.00,Corporate Auto,Two-Door Car,$24.09
+SP58110,California,F,Bachelor,61469,$63.00,Personal Auto,Four-Door Car,$302.40
+XM91635,Arizona,F,High School or Below,16618,$62.00,Special Auto,Four-Door Car,$219.29
+TV82603,California,F,Bachelor,48081,$188.00,Personal Auto,Luxury SUV,$881.36
+BB82067,Oregon,M,Doctor,67632,$121.00,Personal Auto,Sports Car,$26.95
+JP94676,Oregon,F,Bachelor,34115,$119.00,Personal Auto,SUV,$466.12
+VU53417,Arizona,M,High School or Below,23051,$99.00,Personal Auto,Two-Door Car,$475.20
+IW54795,California,M,College,23748,$99.00,Personal Auto,Four-Door Car,$607.10
+RN78170,Arizona,F,College,40589,$69.00,Corporate Auto,Four-Door Car,$331.20
+IX55883,California,F,College,50809,$83.00,Personal Auto,Four-Door Car,$290.38
+XM72420,Arizona,F,High School or Below,66676,$97.00,Personal Auto,Four-Door Car,$558.10
+GC15104,Nevada,F,Bachelor,52339,$70.00,Corporate Auto,Four-Door Car,$336.00
+RX13282,Oregon,M,Bachelor,14973,$115.00,Personal Auto,SUV,$828.00
+QA85890,Arizona,F,High School or Below,0,$83.00,Corporate Auto,Four-Door Car,$540.51
+IR62668,Arizona,F,Bachelor,31546,$65.00,Personal Auto,Four-Door Car,$100.05
+AL96740,California,F,College,67763,$73.00,Personal Auto,Four-Door Car,$59.86
+SS48498,Washington,F,College,20836,$79.00,Corporate Auto,Four-Door Car,$193.57
+PE39479,Washington,M,College,88592,$76.00,Corporate Auto,Four-Door Car,$199.80
+JH62891,Oregon,F,College,66943,$65.00,Special Auto,Four-Door Car,$53.08
+FI20423,Arizona,F,High School or Below,81872,$115.00,Special Auto,Four-Door Car,$256.44
+PM13394,Washington,F,College,22404,$70.00,Personal Auto,Four-Door Car,$211.14
+YV67971,California,F,High School or Below,21342,$62.00,Personal Auto,Four-Door Car,$74.35
+QD31377,California,M,Bachelor,34621,$108.00,Corporate Auto,SUV,$621.46
+YG10247,Oregon,M,College,62396,$64.00,Personal Auto,Four-Door Car,$307.20
+FE73696,Oregon,M,High School or Below,97212,$93.00,Personal Auto,Two-Door Car,$360.06
+SW19699,Arizona,F,Bachelor,49648,$70.00,Personal Auto,Four-Door Car,$65.95
+QJ40732,Arizona,M,College,97984,$61.00,Personal Auto,Four-Door Car,$407.45
+HM76207,California,F,College,26308,$114.00,Corporate Auto,SUV,$547.20
+NT59303,Oregon,F,College,63528,$256.00,Personal Auto,Luxury Car,"$1,228.80"
+PU41393,Nevada,M,College,20225,$114.00,Special Auto,SUV,$547.20
+QO86948,Nevada,M,High School or Below,0,$112.00,Personal Auto,SUV,$806.40
+QN10888,Oregon,F,High School or Below,87620,$64.00,Personal Auto,Four-Door Car,$24.06
+VY19543,California,F,Bachelor,0,$72.00,Corporate Auto,Four-Door Car,$311.33
+XC15133,Nevada,F,Master,34990,$65.00,Personal Auto,Four-Door Car,$42.69
+ST43550,Oregon,M,Bachelor,99934,$71.00,Special Auto,Four-Door Car,$460.32
+FX36546,Washington,M,Master,60804,$92.00,Personal Auto,Four-Door Car,$213.23
+JX68983,Oregon,M,Bachelor,94648,$69.00,Personal Auto,Four-Door Car,$331.20
+HX78576,California,F,High School or Below,24516,$71.00,Personal Auto,Four-Door Car,$300.61
+ZQ11381,Arizona,M,Bachelor,61063,$85.00,Personal Auto,Four-Door Car,$262.50
+ON39271,California,M,Master,0,$74.00,Personal Auto,Two-Door Car,$263.37
+SB18278,Oregon,M,Bachelor,0,$64.00,Corporate Auto,Four-Door Car,$307.20
+ZT30559,California,F,High School or Below,15169,$63.00,Personal Auto,Four-Door Car,$302.40
+XI41106,Arizona,M,College,55390,$71.00,Corporate Auto,Two-Door Car,$256.27
+ZS88847,Oregon,F,Bachelor,27592,$62.00,Personal Auto,Four-Door Car,$297.60
+RU49126,Washington,F,College,61846,$112.00,Personal Auto,SUV,$215.82
+KR62797,Arizona,F,High School or Below,83297,$113.00,Personal Auto,SUV,$542.40
+ZJ73220,Arizona,F,College,0,$188.00,Special Auto,Luxury Car,"$1,353.60"
+FY62633,Oregon,M,Bachelor,0,$90.00,Personal Auto,Four-Door Car,$432.00
+CU36986,California,F,High School or Below,55897,$104.00,Personal Auto,Four-Door Car,$499.20
+WZ53904,Arizona,M,Bachelor,21297,$71.00,Personal Auto,Four-Door Car,$45.51
+AA71604,Arizona,F,Master,87560,$98.00,Personal Auto,Two-Door Car,$470.40
+TD10493,Oregon,F,High School or Below,0,$96.00,Personal Auto,Four-Door Car,$691.20
+LY97989,Oregon,F,Bachelor,0,$85.00,Personal Auto,Four-Door Car,$408.00
+VX39856,Arizona,F,Doctor,89398,$86.00,Personal Auto,Four-Door Car,$82.41
+TP51897,California,F,College,36843,$68.00,Corporate Auto,Four-Door Car,$357.64
+QQ89253,Oregon,F,College,0,$134.00,Personal Auto,SUV,$643.20
+EI91403,California,M,High School or Below,34946,$65.00,Personal Auto,Two-Door Car,$420.36
+QG15435,Arizona,F,College,75680,$78.00,Personal Auto,Four-Door Car,$136.79
+FZ55002,Nevada,F,Doctor,0,$69.00,Personal Auto,Four-Door Car,$331.20
+HX77930,Washington,F,College,49532,$79.00,Personal Auto,Four-Door Car,$220.19
+UN37063,Arizona,M,Bachelor,10269,$65.00,Personal Auto,Two-Door Car,$170.80
+VB87946,California,M,College,49714,$63.00,Personal Auto,Four-Door Car,$266.17
+AB60627,California,M,High School or Below,77517,$129.00,Corporate Auto,SUV,$98.92
+TA34903,Oregon,M,High School or Below,81082,$73.00,Personal Auto,Four-Door Car,$281.30
+AQ51368,Oregon,F,Bachelor,72540,$88.00,Corporate Auto,Two-Door Car,$631.74
+NZ26102,Oregon,F,High School or Below,0,$65.00,Personal Auto,Four-Door Car,$468.00
+GB45753,California,M,High School or Below,61546,$68.00,Corporate Auto,Two-Door Car,$29.21
+BV79904,California,F,Master,44818,$67.00,Personal Auto,Two-Door Car,$136.88
+OB49075,Arizona,M,Bachelor,17622,$65.00,Personal Auto,Four-Door Car,$312.00
+DS97676,Oregon,F,College,0,$72.00,Personal Auto,Four-Door Car,$518.40
+JO63462,California,M,Bachelor,79797,$84.00,Corporate Auto,Two-Door Car,$31.76
+NJ10602,Washington,F,College,92717,$70.00,Personal Auto,Two-Door Car,$224.28
+RS24501,Oregon,F,College,28919,$173.00,Personal Auto,SUV,$830.40
+VT78274,Arizona,M,College,0,$68.00,Personal Auto,Four-Door Car,$480.16
+SU56153,Nevada,M,Bachelor,63568,$65.00,Corporate Auto,Two-Door Car,$390.79
+MN20737,Nevada,F,College,73935,$64.00,Corporate Auto,Four-Door Car,$72.07
+KL43114,Arizona,F,High School or Below,0,$66.00,Corporate Auto,Two-Door Car,$316.80
+YQ15567,Oregon,F,Bachelor,18846,$115.00,Personal Auto,SUV,$552.00
+TR88637,Arizona,F,High School or Below,38893,$103.00,Personal Auto,SUV,$41.97
+TC88986,Oregon,M,High School or Below,0,$153.00,Special Auto,SUV,"$1,027.00"
+XX88577,California,M,Bachelor,84824,$196.00,Corporate Auto,SUV,$319.82
+NE49052,California,F,High School or Below,20068,$86.00,Corporate Auto,Four-Door Car,$411.01
+KX17826,Oregon,M,Doctor,0,$125.00,Corporate Auto,SUV,$600.00
+CC91503,Arizona,F,High School or Below,0,$135.00,Personal Auto,Sports Car,$648.00
+WH32183,California,M,Bachelor,97245,$70.00,Personal Auto,Four-Door Car,$4.11
+ES90681,California,F,College,51808,$61.00,Personal Auto,Four-Door Car,$351.15
+DW96592,California,M,Bachelor,71391,$67.00,Personal Auto,Four-Door Car,$284.00
+MT23134,Oregon,M,High School or Below,0,$73.00,Personal Auto,Two-Door Car,$496.47
+BM69081,Arizona,M,Bachelor,0,$100.00,Personal Auto,SUV,$925.14
+MB90871,Oregon,F,College,23496,$77.00,Special Auto,Four-Door Car,$13.16
+GT62080,Washington,M,High School or Below,55561,$63.00,Personal Auto,Four-Door Car,$227.87
+QL77686,Nevada,F,College,23986,$119.00,Corporate Auto,SUV,$463.34
+ON77827,Arizona,F,Master,22974,$71.00,Personal Auto,Four-Door Car,$180.67
+KP18988,Oregon,F,High School or Below,0,$101.00,Personal Auto,Four-Door Car,$484.80
+TI92884,Arizona,M,Bachelor,61844,$106.00,Personal Auto,Sports Car,$508.80
+JH73503,Arizona,M,Doctor,24804,$73.00,Personal Auto,Two-Door Car,$350.40
+YE97964,California,F,Bachelor,27760,$104.00,Personal Auto,SUV,$302.76
+VA30351,Oregon,F,High School or Below,74454,$71.00,Personal Auto,Four-Door Car,$340.80
+PV55726,Oregon,F,Master,29462,$107.00,Personal Auto,SUV,$513.60
+UC88305,Arizona,F,College,52266,$68.00,Corporate Auto,Two-Door Car,$141.92
+TS53809,Oregon,M,Bachelor,0,$70.00,Personal Auto,Two-Door Car,$349.78
+ZV32120,California,M,Doctor,23599,$103.00,Corporate Auto,SUV,$494.40
+FB80807,Oregon,M,Bachelor,36088,$72.00,Personal Auto,Four-Door Car,$345.60
+AS55677,California,F,High School or Below,70534,$104.00,Personal Auto,Four-Door Car,$54.07
+WA15684,Oregon,M,College,27398,$125.00,Personal Auto,SUV,$600.00
+SA50567,Nevada,M,Bachelor,85296,$68.00,Personal Auto,Four-Door Car,$342.52
+KJ31611,Arizona,M,High School or Below,31063,$92.00,Personal Auto,Four-Door Car,$441.60
+VL37375,California,M,Bachelor,0,$92.00,Personal Auto,Two-Door Car,"$1,027.18"
+KN21017,Nevada,M,High School or Below,52367,$81.00,Personal Auto,Four-Door Car,$275.99
+PX44289,Arizona,M,College,58651,$71.00,Personal Auto,Four-Door Car,$472.60
+AM97901,Nevada,F,College,84831,$192.00,Special Auto,Sports Car,"$1,336.93"
+RE42925,Oregon,M,Bachelor,49088,$114.00,Corporate Auto,SUV,$547.20
+TR81766,California,F,College,70263,$93.00,Corporate Auto,Two-Door Car,$7.35
+CH85057,Oregon,F,Doctor,45354,$285.00,Personal Auto,Luxury SUV,$540.14
+UP71482,Arizona,M,High School or Below,0,$63.00,Personal Auto,Four-Door Car,$383.36
+EG40670,California,F,Bachelor,28334,$83.00,Special Auto,Four-Door Car,$537.77
+HV83672,Oregon,F,Bachelor,38772,$90.00,Personal Auto,Four-Door Car,$321.87
+MG10140,Oregon,F,College,41479,$94.00,Personal Auto,Two-Door Car,$19.58
+TC44716,California,M,Bachelor,23909,$119.00,Personal Auto,SUV,$571.20
+QO65264,California,M,College,48328,$63.00,Personal Auto,Two-Door Car,$108.14
+EB66698,California,M,High School or Below,86689,$85.00,Corporate Auto,Two-Door Car,$408.00
+OT52034,California,M,Bachelor,24204,$99.00,Personal Auto,Four-Door Car,$707.30
+CH85444,Oregon,M,College,25943,$110.00,Corporate Auto,Two-Door Car,"$1,067.33"
+PU85769,California,M,High School or Below,0,$73.00,Personal Auto,Four-Door Car,$807.95
+UI73201,California,M,College,62375,$92.00,Personal Auto,Two-Door Car,$618.63
+SL50592,California,F,High School or Below,0,$71.00,Corporate Auto,Four-Door Car,$404.27
+XP11075,Arizona,M,Bachelor,0,$148.00,Personal Auto,SUV,$710.40
+SI31236,Oregon,M,Bachelor,70200,$65.00,Corporate Auto,Four-Door Car,$312.00
+JN26745,Nevada,F,Bachelor,0,$112.00,Special Auto,Four-Door Car,$707.98
+VK48036,Oregon,F,College,79027,$70.00,Corporate Auto,Four-Door Car,$336.00
+JX76668,Washington,F,High School or Below,62935,$141.00,Personal Auto,Sports Car,$232.24
+DS45802,California,F,High School or Below,26893,$68.00,Personal Auto,Four-Door Car,$68.23
+OA96690,Oregon,F,High School or Below,47406,$94.00,Personal Auto,Four-Door Car,$287.15
+EM27919,California,M,Bachelor,17622,$65.00,Personal Auto,Four-Door Car,$312.00
+QO41043,Oregon,F,College,27572,$124.00,Corporate Auto,SUV,$595.20
+OV50124,Oregon,F,College,0,$72.00,Personal Auto,Two-Door Car,$391.64
+PR31642,Oregon,F,Bachelor,32802,$114.00,Personal Auto,SUV,$547.20
+BU41599,Washington,F,Master,62739,$70.00,Personal Auto,Two-Door Car,$239.33
+TK30357,California,F,Bachelor,90844,$118.00,Personal Auto,SUV,$232.67
+NF31087,Nevada,F,High School or Below,44685,$69.00,Personal Auto,Four-Door Car,$331.20
+NH16984,California,F,Bachelor,0,$80.00,Personal Auto,Four-Door Car,$336.51
+OS75493,California,F,High School or Below,42589,$98.00,Corporate Auto,Four-Door Car,$470.40
+VT63298,Oregon,M,Bachelor,0,$72.00,Personal Auto,Four-Door Car,$345.60
+QS75550,Washington,F,Bachelor,93383,$62.00,Corporate Auto,Two-Door Car,$244.21
+SZ16483,Arizona,F,High School or Below,79583,$109.00,Personal Auto,Four-Door Car,$523.20
+VM92311,Arizona,F,High School or Below,89129,$64.00,Personal Auto,Four-Door Car,$328.87
+NJ46849,Arizona,M,College,0,$69.00,Personal Auto,Four-Door Car,$496.80
+WZ31900,Oregon,F,Bachelor,94389,$107.00,Corporate Auto,SUV,$85.06
+RG30482,Oregon,F,College,0,$197.00,Personal Auto,SUV,"$1,418.40"
+ZM86949,Oregon,F,High School or Below,84106,$64.00,Personal Auto,Two-Door Car,$334.41
+QQ39596,Arizona,F,College,0,$69.00,Personal Auto,Four-Door Car,$42.10
+FH51383,California,F,High School or Below,76717,$66.00,Personal Auto,Two-Door Car,$300.53
+BJ53923,Arizona,M,High School or Below,51978,$66.00,Corporate Auto,Four-Door Car,$144.78
+CZ96653,Oregon,F,Bachelor,47325,$107.00,Personal Auto,SUV,$64.60
+FB23788,Oregon,M,High School or Below,86721,$111.00,Corporate Auto,SUV,$532.80
+NT43594,Nevada,F,Bachelor,24910,$63.00,Personal Auto,Four-Door Car,$347.86
+RJ85627,Washington,F,Bachelor,43817,$62.00,Personal Auto,Four-Door Car,$245.45
+KJ86296,Oregon,M,High School or Below,0,$73.00,Personal Auto,Four-Door Car,$525.60
+PI47776,Oregon,F,Bachelor,89451,$63.00,Corporate Auto,Four-Door Car,$61.77
+MD73554,California,M,College,59537,$66.00,Personal Auto,Two-Door Car,$316.80
+UX92071,Oregon,M,High School or Below,0,$199.00,Personal Auto,Luxury SUV,$955.20
+YG44474,Oregon,M,College,54193,$117.00,Corporate Auto,SUV,$720.75
+UH45301,Oregon,M,College,86946,$118.00,Personal Auto,Four-Door Car,$340.66
+RY92647,California,F,Bachelor,0,$92.00,Personal Auto,Four-Door Car,$546.52
+IK12620,Arizona,F,High School or Below,12160,$109.00,Personal Auto,Four-Door Car,$489.41
+GQ66762,California,M,College,33701,$63.00,Personal Auto,Four-Door Car,$171.33
+YT69858,Washington,F,Bachelor,85702,$67.00,Personal Auto,Two-Door Car,$249.09
+XD85577,California,M,Bachelor,69417,$73.00,Personal Auto,Four-Door Car,$30.87
+TM65736,Oregon,M,Master,38644,$78.00,Personal Auto,Four-Door Car,$361.46
+VJ51327,California,F,High School or Below,63209,$102.00,Personal Auto,SUV,$207.32
+GS98873,Arizona,F,Bachelor,16061,$88.00,Personal Auto,Four-Door Car,$633.60
+CW49887,California,F,Master,79487,$114.00,Special Auto,SUV,$547.20
+MY31220,California,F,College,54230,$112.00,Personal Auto,Two-Door Car,$537.60
