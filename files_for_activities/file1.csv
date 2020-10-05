@@ -1,6 +1,6 @@
 Customer,ST,GENDER,Education,Customer Lifetime Value,Income,Monthly Premium Auto,Number of Open Complaints,Policy Type,Vehicle Class,Total Claim Amount
-RB50392,Washington,NA,Master,,0,1000.0000000000,1/0/00,Personal Auto,Four-Door Car,2.704934
-QZ44356,Arizona,F,Bachelor,697953.59%,0,94.0000000000,1/0/00,Personal Auto,Four-Door Car,1131.464935
+RB50392,Washington,NA,Master,,0,1000.0000000000,1/0/00,Personal Auto,Four-Door Cr,2.704934
+QZ44356,Arizona,F,Bachelor,697953.59%,0,94.0000000000,1/0/00,Personal Auto,Four-Door Cr,1131.464935
 AI49188,Nevada,F,Bachelor,1288743.17%,48767,108.0000000000,1/0/00,Personal Auto,Two-Door Car,566.472247
 WW63253,California,M,Bachelor,764586.18%,0,106.0000000000,1/0/00,Corporate Auto,SUV,529.881344
 GA49547,Washington,M,High School or Below,536307.65%,36357,68.0000000000,1/0/00,Personal Auto,Four-Door Car,17.269323
